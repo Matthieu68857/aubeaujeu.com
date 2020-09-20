@@ -13,19 +13,19 @@ summarylength = 25
     weight  = 1
   [[menu.nav]]
     name    = "La boutique"
-    url     = "about"
+    url     = "boutique/"
     weight  = 2
   [[menu.nav]]
     name    = "Le bar à jeux"
-    url     = "portfolio"
+    url     = "barajeux/"
     weight  = 3
   [[menu.nav]]
     name    = "Quoi de neuf ?"
-    url     = "blog"
+    url     = "blog/"
     weight  = 4
   [[menu.nav]]
     name    = "Contactez-nous"
-    url     = "contact"
+    url     = "contact/"
     weight  = 5
 
 # Site Params
@@ -38,9 +38,10 @@ summarylength = 25
   # Google Analitycs
   googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
-  formspreeFormUrl  = "https://formspree.io/myykjpje"
+  formspreeFormUrl  = "https://formspree.io/xeqpjwdn"
 
   custom_css = ["css/main.css"]
+  custom_js = ["js/jquery.js", "js/freewall.js"]
 
   # Navbar Action Button
   [params.navAction]
@@ -56,23 +57,52 @@ summarylength = 25
     heading               = "Au Beau Jeu n'attends que vous pour vos soirées jeux"
     tagline               = "VOTRE NOUVEL ENDROIT FAVORI SUR LILLE"
     primary_button        = "La boutique"
-    primary_button_url    = "portfolio"
+    primary_button_url    = "boutique/"
     secondary_button      = "Le bar à jeux"
-    secondary_button_url  = "contact"
+    secondary_button_url  = "barajeux/"
 
-  [params.portfolio]
+  [params.coordonnees]
     enable    = true
-    title     = "Vous souhaitez venir ?"
-    subtitle  = ""
+    title     = "Tu souhaites venir ?"
+    subtitle  = "En voiture, à vélo, en métro, ou en nuage magique, c'est toi qui vois."
+    coordonnees = "<strong>Adresse :</strong> 127 Rue du Molinel, 59800 Lille<br><br><strong>Tél :</strong> 06 27 09 88 73<br><br><strong>Horaires de la boutique :</strong><br>Du Mardi au Samedi : 10:00-23:30<br><br><strong>Horaires du bar à jeux :</strong><br>Du Mardi au Vendredi : 18:00-23:30<br>Le Samedi : 14:00-23:30"
+    maps = '<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/carte-sans-nom_500163?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=1406072"></iframe>'
 
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
     title               = "On a hâte de vous faire jouer !"
     primary_button      = "J'arrive !"
-    primary_button_url  = "contact"
+    primary_button_url  = "contact/"
     secondary_button    = "Je fonce !"
-    secondary_button_url = "contact"
+    secondary_button_url = "contact/"
+
+  [params.call_to_action2]
+    enable              = true
+    background_image    = "images/backgrounds/cta-background.jpg"
+    title               = "Vous voulez précommander un jeu ? Contactez nous !"
+    primary_button      = "J'arrive !"
+    primary_button_url  = "contact/"
+    secondary_button    = "Je fonce !"
+    secondary_button_url = "contact/"
+
+  [params.call_to_action3]
+    enable              = true
+    background_image    = "images/backgrounds/cta-background.jpg"
+    title               = "Toi aussi t'as les cartes qui frétillent ?"
+    primary_button      = "J'arrive !"
+    primary_button_url  = "contact/"
+    secondary_button    = "Je fonce !"
+    secondary_button_url = "contact/"
+
+  [params.call_to_action4]
+    enable              = true
+    background_image    = "images/backgrounds/cta-background.jpg"
+    title               = "On lance les dés tout de suite ?"
+    primary_button      = "J'arrive !"
+    primary_button_url  = "contact/"
+    secondary_button    = "Je fonce !"
+    secondary_button_url = "contact/"
 
   [params.footer]
     # Footer Contact Info
@@ -86,16 +116,16 @@ summarylength = 25
         title   = "Sitemap"
         [[params.footer.sitemap.link]]
           name = "La boutique"
-          url  = "about"
+          url  = "boutique/"
         [[params.footer.sitemap.link]]
           name = "Le bar à jeux"
-          url  = "portfolio"
+          url  = "barajeux/"
         [[params.footer.sitemap.link]]
           name = "Quoi de neuf ?"
-          url  = "blog"
+          url  = "blog/"
         [[params.footer.sitemap.link]]
           name = "Contactez-nous"
-          url  = "contact"
+          url  = "contact/"
       # Footer Social Media
       [params.footer.social]
         title   = "Nos réseaux sociaux"

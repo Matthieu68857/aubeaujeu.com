@@ -5,3 +5,39 @@
 .site-footer-logo img {
     max-width: 170px;
 }
+
+.site-client-item img {
+    height: 70px;
+}
+
+.site-about-company h1 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+.site-photos {
+    padding: 0 0 50px;
+}
+.site-project, .site-blog {
+  padding-bottom: 80px;
+}
+
+#five_stars {
+  max-width: 130px;
+}
+
+#link_five_stars:hover {
+	text-decoration: none
+}
+
+.site-testimonial {
+    padding-bottom: 50px;
+}
+
+.site-team {
+  padding-bottom: 50px;
+}
