@@ -1,0 +1,15 @@
+enable        : true
+title         : "Retrouvez-les chez nous"
+client_logos  :
+  [
+  "images/editeurs/iello.jpg",
+  "images/editeurs/spacecowboys.jpg",
+  "images/editeurs/libellud.png",
+  "images/editeurs/asmodee.png",
+  "images/editeurs/blackrock.png",
+  "images/editeurs/abysse.png",
+  "images/editeurs/filosofia.jpg",
+  "images/editeurs/lbdj.png",
+  "images/editeurs/matagot.png",
+  "images/editeurs/gigamic.png"
+  ]

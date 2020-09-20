@@ -1,0 +1,21 @@
+enable  : true
+title   : L'équipe à votre écoute
+members  :
+  - image       : images/team/team-member-one.jpg
+    name        : Héloïse Bauchy
+    designation : Pikachu-addict, elle n'en est pas moins une joueuse professionnelle et voue une passion aux jeux de gestion. Son jeu préféré ? Brass Lancashire ! Point faible ? Trop forte.
+    instagram   : https://www.instagram.com/heloisebauchy/?hl=fr
+    facebook    : https://www.facebook.com/heloise.bauchyprioua
+
+  - image       : images/team/team-member-two.jpg
+    name        : Steeves Avisse
+    designation : Il anime vos soirées Loups Garous ou Burger Quizz comme personne, son péché mignon c'est Potion Explosion, et c'est le champion du monde de Dodelido (!)
+    instagram   : https://www.instagram.com/steevesjob_/?hl=fr
+    facebook    : https://www.facebook.com/steeves.avisse
+
+  - image       : images/team/team-member-three.jpg
+    name        : Guillaume Desmartin
+    designation : Chef cuistot du bar à jeux, ses paninis sont aujourd'hui légendaires. Passionné par tous les TCGs de la planète, il l'est encore plus pour ses clients adorés.
+    instagram   : https://www.instagram.com/guillouuu/?hl=fr
+    facebook    : https://www.facebook.com/guillaume.desmartin.35
+    twitch      : https://www.twitch.tv/poscaa

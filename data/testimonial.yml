@@ -1,0 +1,21 @@
+enable  : true
+title   : "Les avis de nos joueurs"
+subtitle: "Qu'ont-ils pensé de notre première rencontre ?"
+testimonial_item :
+  - thumb : "images/testimonial/user-thumb-one.jpg"
+    name  : "Sabine"
+    company_position: "Panini lover"
+    quote : >
+            "Incontournable pour une soirée entre amis un peu différente du "bar /resto". On vous explique les jeux donc même pas besoin de lire les notices. On ne voit effectivement pas le temps passer! Nous y sommes restés 4 heures, on a pu jouer à 7 jeux tranquillement. Il y des boissons et des croques Monsieur et panini délicieux. Aussi, si vous avez aimé les jeux, possibilité de les acheter sur place !!"
+
+  - thumb : "images/testimonial/user-thumb-two.jpg"
+    name  : "Simon Roussel"
+    company_position: "Relationship expert"
+    quote : >
+            "Outre le fait que ce "bar-jeu" est juste le meilleur de toute la métropole lilloise, c'est surtout le staff et les gérants qui rendent "Au beau jeu" un endroit si particulier. Ils sont accueillants, vraiment à l'écoute, chaleureux et sont toujours très drôles !"
+
+  - thumb : "images/testimonial/user-thumb-three.jpg"
+    name  : "Sylvain Massard"
+    company_position: "Fantasy addict"
+    quote : >
+            "TROP BIEN !!! La vitrine peut prêter à confusion quand on y vois marqué bar à jeux, pourtant (tel le monde de Narnia) apparaît au bout d'un couloir, deux étages de tablées, et un mur tapissé d'étagère pleines de jeux de société ! (...) On a passé un moment fort plaisant !"

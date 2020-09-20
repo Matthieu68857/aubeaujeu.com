@@ -1,75 +1,141 @@
-baseURL = "https://raditian-hugo.radity.com/"
-languageCode = "en-us"
-theme = "raditian-free-hugo-theme"
+baseURL       = "http://aubeaujeu.com/WIP/"
+languageCode  = "fr-FR"
+title         = "Au Beau Jeu | Boutique & bar à jeux, Lille"
+theme         = "roxo"
+summarylength = 25
 
-# Plugins
-[params.plugins]
-
-  # CSS Plugins
-  [[params.plugins.css]]
-  URL = "css/main.css"
-  [[params.plugins.css]]
-  URL = "css/rad-icons.css"
-  [[params.plugins.css]]
-  URL = "css/custom.css"
-
-  # JS Plugins
-  [[params.plugins.js]]
-  URL = "js/rad-animations.js"
-  [[params.plugins.js]]
-  URL = "js/sticky-header.js"
-  [[params.plugins.js]]
-  URL = "js/library/fontfaceobserver.js"
-
-
-# navigation
+# Site Menus
 [menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name    = "Accueil"
+    url     = ""
+    weight  = 1
+  [[menu.nav]]
+    name    = "La boutique"
+    url     = "boutique/"
+    weight  = 2
+  [[menu.nav]]
+    name    = "Le bar à jeux"
+    url     = "barajeux/"
+    weight  = 3
+  [[menu.nav]]
+    name    = "Quoi de neuf ?"
+    url     = "blog/"
+    weight  = 4
+  [[menu.nav]]
+    name    = "Contactez-nous"
+    url     = "contact/"
+    weight  = 5
 
-  [[menu.header]]
-  name = "About"
-  URL = "#about"
-  weight = 2
-
-  [[menu.header]]
-  name = "Portfolio"
-  URL = "#portfolio"
-  weight = 3
-
-  [[menu.header]]
-  name = "Contact"
-  URL = "#contact"
-  weight = 4
-
-
-  [[menu.footer]]
-  name = "About"
-  URL = "#about"
-  weight = 2
-
-  [[menu.footer]]
-  name = "Portfolio"
-  URL = "#portfolio"
-  weight = 3
-
-  [[menu.footer]]
-  name = "Contact"
-  URL = "#contact"
-  weight = 4
-
-
+# Site Params
 [params]
+  logo = "images/logo.png"
+  dateFormat = "16 SEP 2020"
+  # Meta data
+  description = "Au Beau Jeu | Boutique & bar à jeux, Lille"
+  author = "Au Beau Jeu"
+  # Google Analitycs
+  googleAnalitycsID = "Your ID"
+  # We're using formspree.io for form handling, paste your formspree url below
+  formspreeFormUrl  = "https://formspree.io/xeqpjwdn"
 
-  sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
+  custom_css = ["css/main.css"]
+  custom_js = ["js/jquery.js", "js/freewall.js"]
 
-  googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
+  # Navbar Action Button
+  [params.navAction]
+    status  = true
+    name    = "Get in touch"
+    url     = "contact"
 
-  [params.logo]
-    text1 = "Andreas"
-    text2 = "Ellure"
+
+  # Banner Section
+  [params.banner]
+    enable                = true
+    background_image      = "images/backgrounds/hero-background.jpg"
+    heading               = "Au Beau Jeu n'attends que vous pour vos soirées jeux"
+    tagline               = "VOTRE NOUVEL ENDROIT FAVORI SUR LILLE"
+    primary_button        = "La boutique"
+    primary_button_url    = "boutique/"
+    secondary_button      = "Le bar à jeux"
+    secondary_button_url  = "barajeux/"
+
+  [params.coordonnees]
+    enable    = true
+    title     = "Tu souhaites venir ?"
+    subtitle  = "En voiture, à vélo, en métro, ou en nuage magique, c'est toi qui vois."
+    coordonnees = "<strong>Adresse :</strong> 127 Rue du Molinel, 59800 Lille<br><br><strong>Tél :</strong> 06 27 09 88 73<br><br><strong>Horaires de la boutique :</strong><br>Du Mardi au Samedi : 10:00-23:30<br><br><strong>Horaires du bar à jeux :</strong><br>Du Mardi au Vendredi : 18:00-23:30<br>Le Samedi : 14:00-23:30"
+    maps = '<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/carte-sans-nom_500163?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=1406072"></iframe>'
+
+  [params.call_to_action]
+    enable              = true
+    background_image    = "images/backgrounds/cta-background.jpg"
+    title               = "On a hâte de vous faire jouer !"
+    primary_button      = "J'arrive !"
+    primary_button_url  = "contact/"
+    secondary_button    = "Je fonce !"
+    secondary_button_url = "contact/"
+
+  [params.call_to_action2]
+    enable              = true
+    background_image    = "images/backgrounds/cta-background.jpg"
+    title               = "Vous voulez précommander un jeu ? Contactez nous !"
+    primary_button      = "J'arrive !"
+    primary_button_url  = "contact/"
+    secondary_button    = "Je fonce !"
+    secondary_button_url = "contact/"
+
+  [params.call_to_action3]
+    enable              = true
+    background_image    = "images/backgrounds/cta-background.jpg"
+    title               = "Toi aussi t'as les cartes qui frétillent ?"
+    primary_button      = "J'arrive !"
+    primary_button_url  = "contact/"
+    secondary_button    = "Je fonce !"
+    secondary_button_url = "contact/"
+
+  [params.call_to_action4]
+    enable              = true
+    background_image    = "images/backgrounds/cta-background.jpg"
+    title               = "On lance les dés tout de suite ?"
+    primary_button      = "J'arrive !"
+    primary_button_url  = "contact/"
+    secondary_button    = "Je fonce !"
+    secondary_button_url = "contact/"
 
   [params.footer]
-      copyright = "© Raditian. All rights reserved."
-      [params.footer.radity_logo]
-        x = "img/general/design-and-code-radity.png"
-        _2x = "img/general/design-and-code-radity@2x.png"
-        alt = "Design & Code - Radity"
+    # Footer Contact Info
+    [params.footer.contactInfo]
+      title   = "Nos coordonnées"
+      address = "127 Rue du Molinel, <br>59800 Lille"
+      phone   = "06 27 09 88 73"
+      email   = "aubeaujeu@gmail.com"
+      # Footer Sitemap
+      [params.footer.sitemap]
+        title   = "Sitemap"
+        [[params.footer.sitemap.link]]
+          name = "La boutique"
+          url  = "boutique/"
+        [[params.footer.sitemap.link]]
+          name = "Le bar à jeux"
+          url  = "barajeux/"
+        [[params.footer.sitemap.link]]
+          name = "Quoi de neuf ?"
+          url  = "blog/"
+        [[params.footer.sitemap.link]]
+          name = "Contactez-nous"
+          url  = "contact/"
+      # Footer Social Media
+      [params.footer.social]
+        title   = "Nos réseaux sociaux"
+        [[params.footer.social.link]]
+          name = '<span class="fa-stack fa-lg"><i class="fa fa-circle-thin fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x"></i></span>'
+          url  = "https://www.facebook.com/AuBeauJeu/"
+        [[params.footer.social.link]]
+          name = '<span class="fa-stack fa-lg"><i class="fa fa-circle-thin fa-stack-2x"></i><i class="fa fa-instagram fa-stack-1x"></i></span>'
+          url  = "https://www.instagram.com/aubeaujeu/?hl=fr+au+beau+jeu"
+      # Footer Service
+      [params.footer.service]
+        title       = "Blabla bla:"
+        description = "blabla blabla blabla<br>blabla blabla blabla blabla<br>blabla blabla blabla blabla"

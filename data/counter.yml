@@ -1,0 +1,14 @@
+enable : true
+heading : "Votre boutique et bar à jeux préféré sur Lille !"
+counter_item:
+  - title: "Jeux dans la ludothèque"
+    number: "550"
+
+  - title: "Bières servies"
+    number: "8000"
+
+  - title: "Paninis dévorés"
+    number: "6200"
+
+  - title: "Lancers de dés"
+    number: "9999"
