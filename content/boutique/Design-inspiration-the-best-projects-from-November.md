@@ -1,5 +1,5 @@
 ---
-title: "Unlock édition Star Wars, l'escape game qui se prends pour un Jedi"
+title: "Unlock édition Star Wars, l'escape game qui se prend pour un Jedi"
 date: 2020-09-18T12:00:00+00:00
 image: images/blog/starwars-unlock.jpg
 feature_image: images/blog/starwars-unlock.jpg
