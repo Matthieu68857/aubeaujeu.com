@@ -1,8 +1,8 @@
 ---
 title: "Nous vous livrons directement chez vous pendant ce deuxième confinement"
 date: 2020-11-2T12:00:00+00:00
-image: images/blog/starwars-unlock.jpg
-feature_image: images/blog/starwars-unlock.jpg
+image: https://storage.googleapis.com/abj_siteweb/Flyer%20double%20zone%20livraison.png
+feature_image: https://storage.googleapis.com/abj_siteweb/Flyer%20double%20zone%20livraison.png
 author: Héloïse Bauchy
 type: "boutique"
 ---
