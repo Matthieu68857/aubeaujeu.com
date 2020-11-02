@@ -26,7 +26,7 @@ Pour Lille ainsi que ses villes aux alentours :
 | Bleue      | 30€                   |
 | Verte      | 40€                   |
 
-Photo zone Lille
+<img src="https://storage.googleapis.com/abj_siteweb/carte_livraison_lille.png" alt="Carte Livraison" width="500"/>
 
 Jusqu'à 40km en voiture de Lille :
 | Zone        | Minimum de commande |
@@ -36,7 +36,7 @@ Jusqu'à 40km en voiture de Lille :
 | Verte      | 100€                  |
 
 
-<img src="https://storage.googleapis.com/abj_siteweb/122945409_3794673687231122_8858127039793742004_n.jpg" alt="drawing" width="200"/>
+<img src="https://storage.googleapis.com/abj_siteweb/122945409_3794673687231122_8858127039793742004_n.jpg" alt="Carte Livraison" width="500"/>
 
 Merci à tous d'être toujours si nombreux à nous soutenir pendant ces périodes difficiles. Vous êtes les meilleurs :heart_eyes: ! On a hâte de vite vous revoir. En attendant, prenez soin de vous et de votre entourage :heart:
 
