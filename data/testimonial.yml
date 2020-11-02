@@ -1,6 +1,6 @@
 enable  : true
 title   : "Les avis de nos joueurs"
-subtitle: "Qu'ont-ils pensé de notre première rencontre ?"
+subtitle: "Qu’ont-ils pensé de notre première rencontre"
 testimonial_item :
   - thumb : "images/testimonial/user-thumb-one.jpg"
     name  : "Sabine"

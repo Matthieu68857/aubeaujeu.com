@@ -1,23 +1,30 @@
-baseURL       = "http://aubeaujeu.com/WIP/"
+baseURL       = "https://aubeaujeu.com/WIP/"
 languageCode  = "fr-FR"
 title         = "Au Beau Jeu | Boutique & bar à jeux, Lille"
 theme         = "roxo"
 summarylength = 25
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = true
+relativeURLs  = true
 
 # Site Menus
 [menu]
   # Navbar Menus
-  [[menu.nav]]
-    name    = "Accueil"
-    url     = ""
-    weight  = 1
+  # [[menu.nav]]
+  #   name    = "Accueil"
+  #   url     = ""
+  #   weight  = 1
   [[menu.nav]]
     name    = "La boutique"
     url     = "boutique/"
-    weight  = 2
+    weight  = 1
   [[menu.nav]]
     name    = "Le bar à jeux"
     url     = "barajeux/"
+    weight  = 2
+  [[menu.nav]]
+    name    = "Les événements"
+    url     = "evenements/"
     weight  = 3
   [[menu.nav]]
     name    = "Quoi de neuf ?"
@@ -41,14 +48,13 @@ summarylength = 25
   formspreeFormUrl  = "https://formspree.io/xeqpjwdn"
 
   custom_css = ["css/main.css"]
-  custom_js = ["js/jquery.js", "js/freewall.js"]
+  custom_js = ["js/jquery.js"]
 
   # Navbar Action Button
   [params.navAction]
     status  = true
     name    = "Get in touch"
     url     = "contact"
-
 
   # Banner Section
   [params.banner]
@@ -66,7 +72,7 @@ summarylength = 25
     title     = "Tu souhaites venir ?"
     subtitle  = "En voiture, à vélo, en métro, ou en nuage magique, c'est toi qui vois."
     coordonnees = "<strong>Adresse :</strong> 127 Rue du Molinel, 59800 Lille<br><br><strong>Tél :</strong> 06 27 09 88 73<br><br><strong>Horaires de la boutique :</strong><br>Du Mardi au Samedi : 10:00-23:30<br><br><strong>Horaires du bar à jeux :</strong><br>Du Mardi au Vendredi : 18:00-23:30<br>Le Samedi : 14:00-23:30"
-    maps = '<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/carte-sans-nom_500163?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=1406072"></iframe>'
+    maps = '<div id="wrapper-9cd199b9cc5410cd3b1ad21cab2e54d3"><div id="map-9cd199b9cc5410cd3b1ad21cab2e54d3"></div><script>(function () {var setting = {"height":531,"width":803,"zoom":18,"queryString":"Au Beau Jeu, Rue du Molinel, Lille, France","place_id":"ChIJ262YPY_VwkcRSs4FPTBM6UI","satellite":false,"centerCoord":[50.63286646935561,3.0645592499999985],"cid":"0x42e94c303d05ce4a","lang":"fr","cityUrl":"/france/lille-18116","cityAnchorText":"Carte de Lille, Nord-Pas-de-Calais, France","id":"map-9cd199b9cc5410cd3b1ad21cab2e54d3","embed_id":"270177"}; var d = document; var s = d.createElement("script"); s.src = "https://1map.com/js/script-for-user.js?embed_id=270177"; s.async = true; s.onload = function (e) { window.OneMap.initMap(setting)}; var to = d.getElementsByTagName("script")[0]; to.parentNode.insertBefore(s, to);})();</script><a href="https://1map.com/fr/map-embed">1 Map</a></div>'
 
   [params.call_to_action]
     enable              = true
@@ -89,7 +95,7 @@ summarylength = 25
   [params.call_to_action3]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "Toi aussi t'as les cartes qui frétillent ?"
+    title               = "Vous souhaitez réserver une table ?"
     primary_button      = "J'arrive !"
     primary_button_url  = "contact/"
     secondary_button    = "Je fonce !"
@@ -113,13 +119,16 @@ summarylength = 25
       email   = "aubeaujeu@gmail.com"
       # Footer Sitemap
       [params.footer.sitemap]
-        title   = "Sitemap"
+        title   = "Plan du site"
         [[params.footer.sitemap.link]]
           name = "La boutique"
           url  = "boutique/"
         [[params.footer.sitemap.link]]
           name = "Le bar à jeux"
           url  = "barajeux/"
+        [[params.footer.sitemap.link]]
+          name = "Les événements"
+          url  = "evenements/"
         [[params.footer.sitemap.link]]
           name = "Quoi de neuf ?"
           url  = "blog/"
@@ -137,5 +146,5 @@ summarylength = 25
           url  = "https://www.instagram.com/aubeaujeu/?hl=fr+au+beau+jeu"
       # Footer Service
       [params.footer.service]
-        title       = "Blabla bla:"
-        description = "blabla blabla blabla<br>blabla blabla blabla blabla<br>blabla blabla blabla blabla"
+        title       = "Au Beau Jeu"
+        description = "Envie d’acheter un nouveau jeu de société ? Ou de jouer aux toutes dernières nouveautés autour d’une bière et d’un bon Panini ? On a tout pour vous plaire ici."

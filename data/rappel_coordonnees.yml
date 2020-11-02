@@ -1,0 +1,11 @@
+enable : true
+heading : "TA BOUTIQUE ET BAR À JEUX PRÉFÉRÉS SUR LILLE !"
+counter_item:
+  - title: "Horaires"
+    number: "Du Mardi au Samedi :<br/> de 10H à 23H30"
+
+  - title: "Adresse"
+    number: "127 Rue du Molinel,<br/> 59800 Lille"
+
+  - title: "Téléphone"
+    number: "06 27 09 88 73"

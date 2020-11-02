@@ -1,0 +1,5 @@
+enable : true
+heading : "Ludothèque"
+counter_item:
+  - title: "Découvrez notre ludothèque !"
+    number: "<a target='_blank' href='https://www.myludo.fr/#!/profil/au-beau-jeu-2155'><img alt='MyLudo' src='../images/myludo.svg' /></a>"

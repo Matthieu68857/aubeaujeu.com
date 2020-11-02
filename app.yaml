@@ -19,14 +19,17 @@ handlers:
 - url: /
   static_files: public/index.html
   upload: public/*
+  secure: always
 
 # hugo generates pages in directories so check for index.html first
 - url: /(.*)/
   static_files: public/\1/index.html
   upload: public/*
+  secure: always
 
 - url: /
   static_dir: public/
+  secure: always
 
 error_handlers:
   - file: default_error.html
