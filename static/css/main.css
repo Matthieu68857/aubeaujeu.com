@@ -352,3 +352,64 @@
 .property-card:hover .property-image-title .plusinfo-evenement:hover {
   color:#eaa4a4;
 }
+
+.site-blog.details {
+    padding-bottom: 0;
+}
+
+.site-blog-details a {
+  color:#eaa4a4;
+}
+
+.site-blog-details th {
+  background-color: #add6d2;
+  color:white;
+  padding: 10px;
+  border-color: 1px solid white;
+}
+
+.site-blog-details td {
+  color:inherit;
+  padding: 10px;
+}
+
+.site-blog-details table, th, td {
+  border: 1px solid white;
+}
+
+.site-blog-details table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.site-blog-details td {
+  border: 1px solid #add6d2;
+}
+
+.site-blog-details img {
+  margin-top:20px;
+  border-radius: 10%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.confinement {
+  padding: 10px;
+  background: #eaa4a4;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  transition: all .3s cubic-bezier(0.55,0.085,0.68,0.53);
+  color:white;
+  text-align: center;
+}
+
+.confinement a {
+  color:black;
+}
+
+.site-navigation {
+  top: 40px;
+}

@@ -6,6 +6,12 @@ summarylength = 25
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = true
 relativeURLs  = true
+enableEmoji=true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 # Site Menus
 [menu]
