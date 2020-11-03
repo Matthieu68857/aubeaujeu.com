@@ -204,6 +204,7 @@
   justify-content: center;
   align-items: center;
   flex-wrap:wrap;
+  width: 100%;
 }
 
 .property-card
@@ -412,4 +413,51 @@
 
 .site-navigation {
   top: 40px;
+}
+
+@media(max-width:575px){
+  .site-navigation{
+    top: 72px;
+  }
+}
+
+@media(max-width:575px){
+  .col-rappel {
+      -ms-flex: none;
+      flex: none;
+      max-width: none;
+  }
+}
+
+#lacarte {
+  display: flex;
+  margin-top: 35px;
+}
+
+.page_carte {
+  height: 750px;
+  width: 529px;
+  margin: 10px;
+  display:-webkit-box;
+  display:-ms-flexbox;
+  display:flex;
+  -webkit-box-orient:vertical;
+  -webkit-box-direction:normal;
+  -ms-flex-direction:column;
+  flex-direction:column;
+  position:relative;
+  -webkit-transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  -o-transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  border-radius:16px;
+  overflow:hidden;
+  -webkit-box-shadow:  15px 15px 27px #e1e1e3, -15px -15px 27px #ffffff;
+  box-shadow:  15px 15px 27px #e1e1e3, -15px -15px 27px #ffffff;
+}
+
+.page_carte img {
+    height: 100%;
+    width: 100%;
+    transform: scale(1.0);
+    transition: transform 0.4s ease;
 }
