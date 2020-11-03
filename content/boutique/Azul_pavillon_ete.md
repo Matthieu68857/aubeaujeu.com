@@ -5,6 +5,7 @@ image: https://storage.googleapis.com/abj_siteweb/Azul%201.JPG
 feature_image: https://storage.googleapis.com/abj_siteweb/Azul%201.JPG
 author: Héloïse Bauchy
 type: "boutique"
+sommaire: "On l’aime autant que le 1er, et on le préfère largement au 2 ! :smiley:"
 ---
 ### Azul Pavillon d’été est de retour !
 
@@ -32,6 +33,6 @@ Cette fois, nous marquerons des points en assemblant les tuiles de même couleu
 Compléter intégralement une étoile d’une même couleur ?
 Ou entourer les monument de mozaiques pour piocher de nouvelles tuiles ? :fountain:
 
-Les choix sont plus difficiles que dans le 1er Azul. On l’aime autant que le 1er, et on le préfère largement au 2 ! :D
+Les choix sont plus difficiles que dans le 1er Azul. On l’aime autant que le 1er, et on le préfère largement au 2 ! :smiley:
 
 <img src="https://storage.googleapis.com/abj_siteweb/Azul%203.JPG" alt="Azul pavillon d'été" width="500"/>

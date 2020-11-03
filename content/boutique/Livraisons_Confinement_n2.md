@@ -5,6 +5,7 @@ image: https://storage.googleapis.com/abj_siteweb/Flyer%20double%20zone%20livrai
 feature_image: https://storage.googleapis.com/abj_siteweb/Flyer%20double%20zone%20livraison.png
 author: Héloïse Bauchy
 type: "boutique"
+Sommaire : "Envie de jouer pendant ce confinement ? On vous livre chez vous, jusqu'à 40km de Lille !"
 ---
 ### Envie de jouer pendant ce confinement ? On vous livre chez vous, jusqu'à 40km de Lille !
 

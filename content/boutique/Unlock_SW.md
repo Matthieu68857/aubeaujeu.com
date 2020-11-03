@@ -5,6 +5,7 @@ image: https://storage.googleapis.com/abj_siteweb/UnlockSW.JPG
 feature_image: https://storage.googleapis.com/abj_siteweb/UnlockSW.JPG
 author: Héloïse Bauchy
 type: "boutique"
+sommaire: "Nous avons enfin pu finir les 3 scénarii du nouvel Unlock !"
 ---
 ### Nous avons enfin pu finir les 3 scénarii du nouvel Unlock !
 
