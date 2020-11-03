@@ -461,3 +461,7 @@
     transform: scale(1.0);
     transition: transform 0.4s ease;
 }
+
+.site-project-item-thumb img, .site-blog-post-thumb img {
+  max-height: 600px;
+}

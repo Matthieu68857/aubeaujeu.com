@@ -5,7 +5,7 @@ image: https://storage.googleapis.com/abj_siteweb/Papillons_fleurs.jpg
 feature_image: https://storage.googleapis.com/abj_siteweb/Papillons_fleurs.jpg
 author: Héloïse Bauchy
 type: "boutique"
-sommaire: Envie d'évasion ? Le magnifique Papillon saura vous transportez dans ses champs de fleurs :blossom:
+sommaire: "Envie d'évasion ? Le magnifique Papillon saura vous transportez dans ses champs de fleurs :blossom:"
 ---
 ### Envie d'évasion ? Le magnifique Papillon saura vous transportez dans ses champs de fleurs :blossom:
 
