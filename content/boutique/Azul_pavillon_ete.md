@@ -5,7 +5,7 @@ image: https://storage.googleapis.com/abj_siteweb/Azul%201.JPG
 feature_image: https://storage.googleapis.com/abj_siteweb/Azul%201.JPG
 author: Héloïse Bauchy
 type: "boutique"
-sommaire: On l’aime autant que le 1er, et on le préfère largement au 2 ! :smiley:
+sommaire: "On l’aime autant que le 1er, et on le préfère largement au 2 ! :smiley:"
 ---
 ### Azul Pavillon d’été est de retour !
 
