@@ -31,5 +31,8 @@ handlers:
   static_dir: public/
   secure: always
 
+- url: /.*
+  script: index.html
+
 error_handlers:
   - file: default_error.html
