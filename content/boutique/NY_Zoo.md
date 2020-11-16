@@ -28,9 +28,15 @@ prise d'animaux : enclos ou tuiles
 prise de tuiles : il faut forcement poser un animal avec. d'un habitat ou d'un autre enclos (qu'on ne pourra pas laisser vide)
 naissance : 1 bébé si au moins 2 animaux
 
+<img src="https://storage.googleapis.com/abj_siteweb/NY%20ZOO/plateau%202%20joueursJPEG.jpg" alt="plateau joueur NY ZOO" width="500"/>
+
 Dès qu'une tuiles est pleine, on enlève tous les animaux dessus pour prendre une attraction au choix, qu'on vient poser sur le plateau
 
 regles de pose de tuile : pas le droit de dépasser ni de chevaucher
+
+On gagne dès que notre plateau est rempli
+
+<img src="https://storage.googleapis.com/abj_siteweb/NY%20ZOO/plateau%20vue%20dessus.jpg" alt="plateau joueur NY ZOO" width="500"/>
 
 
 #### à 2 joueurs
