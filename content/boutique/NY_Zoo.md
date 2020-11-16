@@ -45,6 +45,7 @@ Très bien aussi.
 Regle pour une partie rapide. 
 plateaux adaptés suivant le nombre de joueurs
 
-En résumé :
+Notre avis :
 
-Très bon jeu familial. regles simples. faut quand même lever la tête de son plateau pour surveiller les autres. On adore aussi le matériel qui est vraiment très beau pour le prix (35€ prix de de vente conseillé). Les animaux tout mimi
+Très bon jeu familial. regles simples. Il se sort très facilement. faut quand même lever la tête de son plateau pour surveiller les autres. On adore aussi le matériel qui est vraiment très beau pour le prix (35€ prix de de vente conseillé). Les animaux tout mimi plaisent évidemment à Hélo.
+la mécanique de déplacement de l'elephant est assez sympa : anticipation, on ne peut pas faire les actions quand on veut. Il faut prévoir. Si on voit qu'une tuiles est parfaite pour quelquun, on peut la lui voler ou faire expres de sauter cette action
