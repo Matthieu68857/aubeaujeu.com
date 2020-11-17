@@ -465,35 +465,3 @@
 .site-project-item-thumb img, .site-blog-post-thumb img {
   max-height: 600px;
 }
-
-.site-navigation .nav-item:last-child {
-    margin-left: 0px;
-}
-
-@media(max-width:767px){
-  .site-project-header {
-      padding: 170px 0 80px;
-  }
-}
-
-@media(max-width:575px){
-  .site-contact {
-      padding: 180px 0 100px;
-  }
-}
-
-@media (max-width: 575px){
-  .site-blog-header {
-      padding: 180px 0 100px;
-  }
-}
-
-.site-evenements a {
-  text-decoration: none;
-  color:white;
-  font-weight: bold;
-}
-
-.site-evenements a:hover {
-  color:#add6d2;
-}

@@ -11,7 +11,7 @@ Sommaire : "Envie de jouer pendant ce confinement ? On vous livre chez vous, jus
 
 *C'est reparti pour un deuxième confinement. C'est l'occasion de prendre le temps de jouer en famille, à 2 ou en solo. C'est pour cela que, comme lors du premier confinement, on vous livre directement chez vous, devant votre porte.*
 
-<a href="https://docs.google.com/spreadsheets/d/1etESSMA_qKfzhfcAgVwbmrUuN53cxLjdfDNTybdiJL8/edit?usp=sharing" target="\_blank">Retrouvez notre catalogue de jeux disponibles en cliquant ici !</a> :rocket:
+[Retrouvez notre catalogue de jeux disponibles en cliquant ici !](https://docs.google.com/spreadsheets/d/1etESSMA_qKfzhfcAgVwbmrUuN53cxLjdfDNTybdiJL8/edit?usp=sharing) :rocket:
 
 **Comment commander ?**
 * [En nous contactant juste ici](https://aubeaujeu.com/contact/)
