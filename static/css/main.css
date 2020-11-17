@@ -315,7 +315,7 @@
   color:white;
   margin: 0;
   font-family: Bebas Neue;
-  font-size: 1.4em;
+  font-size: 1.7em;
   line-height: 1.1;
 }
 
@@ -486,4 +486,14 @@
   .site-blog-header {
       padding: 180px 0 100px;
   }
+}
+
+.site-evenements a {
+  text-decoration: none;
+  color:white;
+  font-weight: bold;
+}
+
+.site-evenements a:hover {
+  color:#add6d2;
 }
