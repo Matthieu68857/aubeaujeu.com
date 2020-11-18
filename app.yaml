@@ -1,6 +1,4 @@
-runtime: python27
-api_version: 1
-threadsafe: true
+runtime: php73
 instance_class: F1
 # disable automatic scaling to avoid incurring costs
 automatic_scaling:
@@ -30,9 +28,6 @@ handlers:
 - url: /
   static_dir: public/
   secure: always
-
-- url: /.*
-  script: index.html
 
 error_handlers:
   - file: default_error.html

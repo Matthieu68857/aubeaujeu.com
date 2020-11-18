@@ -465,3 +465,13 @@
 .site-project-item-thumb img, .site-blog-post-thumb img {
   max-height: 600px;
 }
+
+.site-evenements a {
+  text-decoration: none;
+  color:white;
+  font-weight: bold;
+}
+
+.site-evenements a:hover {
+  color:#add6d2;
+}
