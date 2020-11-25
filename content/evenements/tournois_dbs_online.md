@@ -4,8 +4,9 @@ jour: "25"
 mois: NOVEMBRE
 author: Héloïse
 expirydate: 2020-11-26T23:00:00+00:00
+date: 2020-11-25T10:00:00+00:00
 type: "evenements"
-category: "Dragon Ball"
+category: "dragonball"
 sommaire: "Venez affronter les combattants dans le tournoi en ligne dragon ball super card game !"
 feature_image: https://storage.googleapis.com/abj_siteweb/image%20dbscg.jpg
 ---

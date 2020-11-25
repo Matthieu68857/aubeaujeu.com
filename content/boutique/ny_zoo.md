@@ -23,7 +23,7 @@ Dans New York Zoo, vous êtes le concepteur d'un parc animalier. Construisez des
 
 #### Le mecanisme
 
-Les règles du jeu sont vraiment toutes simples. A chaque tour nous devons avancer le pion éléphant de 1 à 4 cases (pour 2 et 4 joueurs) ou de 1 à 3 cases (pour 3 et 5 joueurs). On fait ensuite l'action de la case sur laquelle l'éléphant s'arrête :elephant: .  Si il a franchit une case naissance durant son parcours, tous les joueurs font ensuite l'action naissance pour les animaux concernés. 
+Les règles du jeu sont vraiment toutes simples. A chaque tour nous devons avancer le pion éléphant de 1 à 4 cases (pour 2 et 4 joueurs) ou de 1 à 3 cases (pour 3 et 5 joueurs). On fait ensuite l'action de la case sur laquelle l'éléphant s'arrête :elephant: .  Si il a franchit une case naissance durant son parcours, tous les joueurs font ensuite l'action naissance pour les animaux concernés.
 
 **Les actions possibles :**
 
@@ -51,7 +51,7 @@ En plus de cela, ils ont mis dans la boite des plateaux adaptés suivant le nomb
 
 New York Zoo est un très bon jeu de société familial. Ses règles sont vraiment simples, il se sort très facilement. Mais des règles simples ne sont pas synonymes de parties ennuyantes, bien au contraire. Si vous ne levez pas la tête de votre plateau pour regarder ce que font vos adversaires, vous risquez de perdre.
 
-On adore aussi le matériel qui est vraiment très beau, encore plus pour ce prix (35€ prix de de vente conseillé). Les animaux tout mimi plaisent évidemment tout particulièrement à Hélo.
+On adore aussi le matériel qui est vraiment très beau, encore plus pour ce prix (35€ prix de vente conseillé). Les animaux tout mimi plaisent évidemment tout particulièrement à Hélo.
 
 La mécanique de déplacement de l'éléphant est assez sympa. Elle nous pousse à l'anticipation des actions, car on ne pourra pas faire toutes les actions que l'on veut. Par exemple, si on voit qu'une tuiles est parfaite pour un adversaire, on peut la lui voler ou faire exprès de sauter cette action pour lui faire perdre du temps :smiling_imp:
 
