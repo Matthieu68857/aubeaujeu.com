@@ -1,11 +1,11 @@
 ---
 title: "Les Petites Bourgades : Tetris ton village "
-date: 2020-11-25T12:00:00+00:00
+date: 2020-11-24T12:00:00+00:00
 image: https://storage.googleapis.com/abj_siteweb/Petitesbourgades/couverture.jpg
 feature_image: https://storage.googleapis.com/abj_siteweb/Petitesbourgades/couverture.jpg
 author: Héloïse Bauchy
 type: "boutique"
-sommaire: "Les Petites Bourgades, c'est un jeu de société qu'on a découvert au FIJ à Cannes cette année, mais on ne vous l'avez pas encore présenté ! Il fait partie de nos coups de coeur de l'année."
+sommaire: "Les Petites Bourgades, c'est un jeu de société qui fait partie de nos coups de coeur de l'année"
 ---
 ### Les Petites Bourgades : Tetris ton village :post_office:
 
@@ -29,7 +29,7 @@ Lorsque plus aucun joueur ne peut placer de ressources ni construire de bâtimen
 
 Pour débuter la partie, nous allons devoir sélectioner 7 batiments. Nous devons en choisir un pour chaque couleur, parmi 4 au choix.
 Nous allons en plus avoir un batiment personnel qui est secret.
-Chaque bâtiment aura sa façon de marquer des points qui lui est propre, ainsi qu'un plan particulier pour le construire. 
+Chaque bâtiment aura sa façon de marquer des points qui lui est propre, ainsi qu'un plan particulier pour le construire.
 
 <img src="https://storage.googleapis.com/abj_siteweb/Petitesbourgades/vue%20hauteur.jpg" alt="vue hauteur" width="500"/>
 
