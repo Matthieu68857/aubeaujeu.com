@@ -7,9 +7,9 @@ author: Héloïse Bauchy
 type: "boutique"
 sommaire: "Les Petites Bourgades, c'est un jeu de société qu'on a découvert au FIJ à Cannes cette année, mais on ne vous l'avez pas encore présenté ! Il fait partie de nos coups de coeur de l'année."
 ---
-### Les Petites Bourgades : Tetris ton village
+### Les Petites Bourgades : Tetris ton village :post_office:
 
-Les Petites Bourgades, c'est un jeu de société qu'on a découvert au FIJ à Cannes cette année, mais on ne vous l'avez pas encore présenté ! Il fait partie de nos coups de coeur de l'année.
+Les Petites Bourgades, c'est un jeu de société qu'on a découvert au FIJ à Cannes cette année, mais on ne vous l'avez pas encore présenté ! Il fait partie de nos coups de coeur de l'année. :heart:
 
 :busts_in_silhouette:  1 à 6 joueurs <br>
 :hourglass_flowing_sand: 45min la partie <br>
@@ -21,7 +21,7 @@ Les Petites Bourgades, c'est un jeu de société qu'on a découvert au FIJ à Ca
 
 Vous incarnez le maire d'une petite bourgade, non loin de Lille, perdue dans la forêt. Planifiez judicieusement le développement de votre village en vous assurant de ne pas l'emcombrer de ressources inutiles. <br>
 Votre village est représenté par une grille de 4x4 cases, sur laquelle vous placez vos cubes de ressources en respectant les plans de construction des différents bâtiments. Mais attention, vous prendrez ce qu'on vous donne et vous ne pourrez jamais refuser une ressource. <br>
-Lorsque plus aucun joueur ne peut placer de ressources ni construire de bâtiment, la partie s'achève. Le joueur ayant le plus de point l'emporte !
+Lorsque plus aucun joueur ne peut placer de ressources ni construire de bâtiment, la partie s'achève. Le joueur ayant le plus de point l'emporte ! :star2:
 
 <img src="https://storage.googleapis.com/abj_siteweb/Petitesbourgades/zoom%20joli.jpg" alt="plateau joueur Petites Bourgades" width="500"/>
 
@@ -58,4 +58,5 @@ Le seul petit bémol à 6 c'est qu'on manque parfois de cubes de ressources ou d
 Le jeu a des règles assez accessibles, mais c'est vraiment un brise neurone pour optimiser la construction et le placement de nos batiments. Nous ne pourrons évidemment pas construire tous les batiments pendant la partie. A nous de bien les choisir pour faire le meilleur score ! En plus de cela il va falloir s'adapter suivant les ressources que les autres joueurs vont appeler. Lorsque nous sommes maitre constructeur, il faut bien regarder ce que sont en train de construire les autres joueurs pour ne surtout pas leur donner la ressource dont ils ont besoin.
 
 Les Petites Bourgades fera un parfait cadeau de noël. :gift: :santa:
+
 Il sera plus compliqué qu'un jeu Familial classique tel que [New York Zoo](https://aubeaujeu.com/boutique/ny_zoo/). On le classe en Familial + !
