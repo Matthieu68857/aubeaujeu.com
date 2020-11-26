@@ -1,19 +1,19 @@
 ---
 title: "On recrute !"
 date: 2020-11-26T12:00:00+00:00
-image: https://storage.googleapis.com/abj_siteweb/on-recrute-1.jpg
+image: https://storage.googleapis.com/abj_siteweb/job_search.png
 feature_image: https://storage.googleapis.com/abj_siteweb/on-recrute-1.jpg
 author: Héloïse Bauchy
 type: "boutique"
-sommaire: "Offre d'emploi"
+sommaire: "Avec le départ de Guillaume pour de nouvelles aventures, Au beau Jeu recrute "
 ---
 ### [Offre d’emploi]
 
-Hello tout le monde, Guillaume a décidé de quitter Au Beau Jeu pour vivre de nouvelles aventures ! Pas de panique, nous sommes sûrs que vous le reverrez très vite lors de tournois de cartes dans notre bar à jeux ! 
+Hello tout le monde, Guillaume a décidé de quitter Au Beau Jeu pour vivre de nouvelles aventures ! Pas de panique, nous sommes sûrs que vous le reverrez très vite lors de tournois de cartes dans notre bar à jeux !
 
 Nous cherchons donc à recruter quelqu’un pour le remplacer. Ce sera pour commencer un CDD de 35 heures.
 
-:date: Il débutera dès que le bar à jeux pourra réouvrir, à priori le 1er février selon les dernières informations. 
+:date: Il débutera dès que le bar à jeux pourra réouvrir, à priori le 1er février selon les dernières informations.
 
 :alarm_clock: Horaires : surtout le soir jusqu’à 23h30 du Mardi au Samedi.
 
@@ -36,6 +36,6 @@ Quelques bases en graphisme seraient un plus.
 
 Evolution vers un CDI possible, et éventuellement à plus long terme, vers un poste de manager.
 
-#### Comment postuler ? :email: 
+#### Comment postuler ? :email:
 
 Envoyez nous votre CV accompagné de votre lettre de motivation par mail à aubeaujeu@gmail.com. Attention, nous ne prendrons pas en compte les candidatures via Facebook.
