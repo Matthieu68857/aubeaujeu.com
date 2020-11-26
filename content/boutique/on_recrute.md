@@ -27,7 +27,7 @@ De plus il faut savoir parler un minimum anglais.
 :scroll: **Les missions seront essentiellement les suivantes :**
 
 - Expliquer des jeux aussi bien à 2 qu’à un gros groupe de joueurs;
-- Animation de tournois, de soirée jeux, soirée quizz, loup garou…
+- Animation de tournois, de soirée jeux, soirée quizz, loup garou;
 - Prendre les commandes;
 - Préparation des commandes;
 - Nettoyage.
