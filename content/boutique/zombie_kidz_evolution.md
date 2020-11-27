@@ -16,11 +16,12 @@ sommaire: "Zombie Kidz Evolution, le jeu cooperatif dès 7 ans !"
 
 Zombie Kidz Evolution est sorti il y a plus d'un an déjà, mais nous n'avions pas eu l'occasion de vous en parler. Son grand frère Zombie Teenz Evolution venant de sortir, nous nous sommes dit qu'il était temps d'écrire un article sur ce jeu !
 
-Zombie Kidz est clairement l'un de nos jeux pour enfants préféré. Il est vendu 20€ (Prix de vente conseillé), ce qui fait de lui un cadeau d'anniversaire parfait. Et ce sont 20€ vraiment bien investis quand on voit le nombre d'heures de jeux qu'il propose !
+Zombie Kidz est clairement l'un de nos jeux pour enfants préféré. Il est vendu 20€ (Prix de vente conseillé), ce qui fait de lui un cadeau d'anniversaire parfait. :gift: <br>
+Et ce sont 20€ vraiment bien investis quand on voit le nombre d'heures de jeux qu'il propose !
 
 #### Quel est le principe du jeu ?
 
-Zombie Kidz Evolution, de nos amis Scorpion Masqué, est un jeu coopératif évolutif. Les Zombies ont envahi ton école, et vous devrez tous ensemble développer la meilleure stratégie pour les repousser ! 
+Zombie Kidz Evolution, de nos amis Scorpion Masqué, est un jeu coopératif évolutif. Les Zombies ont envahi ton école, et vous devrez tous ensemble développer la meilleure stratégie pour les repousser !
 
 <img src="https://storage.googleapis.com/abj_siteweb/zombie%20kidz%20evolution/ZombieKidz_setup01_PRINT.jpg" alt="Zombie kidz évolution" width="500"/>
 
@@ -31,9 +32,9 @@ Evolutif, ça veut dire que le jeu va se transformer au fil de vos parties. Cela
 
 <img src="https://storage.googleapis.com/abj_siteweb/zombie%20kidz%20evolution/06_Lifestyle.jpg" alt="Zombie kidz évolution" width="500"/>
 
-- Au cours de vos parties, vous allez ouvrir des enveloppes Mystères qui vont rajouter des règles au jeu et l'enrichir !
-- On va devoir remplir des missions spéciales, et valider notre progression avec des autocollants.
-- Nos héros vont pouvoir acquérir de nouveaux pouvoirs, et on va faire muter les zombies.
+- Au cours de vos parties, vous allez ouvrir des enveloppes Mystères qui vont rajouter des règles au jeu et l'enrichir ! :email:
+- On va devoir remplir des missions spéciales, et valider notre progression avec des autocollants. :trophy:
+- Nos héros vont pouvoir acquérir de nouveaux pouvoirs, et on va faire muter les zombies. 
 
 <img src="https://storage.googleapis.com/abj_siteweb/zombie%20kidz%20evolution/04_ZKE_Socials_Reveal_03.jpg" alt="Zombie kidz évolution" width="300"/>
 
