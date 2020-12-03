@@ -1,9 +1,9 @@
 ---
-title: "Team Challenge - Qualifier n°1"
-jour: "05"
+title: "Team Challenge - Qualifier n°2"
+jour: "19"
 mois: DÉCEMBRE
 author: Matthieu
-expirydate: 2020-12-05T23:00:00+00:00
+expirydate: 2020-12-19T23:00:00+00:00
 type: "evenements"
 category: "pokemon"
 sommaire: "Affrontez les joueurs de votre ligue pour intégrer l'équipe qui défendra celle-ci lors du Team Challenge !"

@@ -1,11 +1,11 @@
 ---
 title: "Zombie Kidz Evolution"
 date: 2020-11-27T12:00:00+00:00
-image: https://storage.googleapis.com/abj_siteweb/zombie%20kidz%20evolution/05_lifestyle.jpg
+image: https://storage.googleapis.com/abj_siteweb/zombie%20kidz%20evolution/zombiekids.png
 feature_image: https://storage.googleapis.com/abj_siteweb/zombie%20kidz%20evolution/05_lifestyle.jpg
 author: Héloïse Bauchy
 type: "boutique"
-sommaire: "Zombie Kidz Evolution, le jeu cooperatif dès 7 ans !"
+sommaire: "Zombie Kidz Evolution, le jeu cooperatif dès 7 ans"
 ---
 ### Zombie Kidz Evolution, notre jeu préféré pour les enfants dès 7 ans
 
@@ -34,13 +34,13 @@ Evolutif, ça veut dire que le jeu va se transformer au fil de vos parties. Cela
 
 - Au cours de vos parties, vous allez ouvrir des enveloppes Mystères qui vont rajouter des règles au jeu et l'enrichir ! :email:
 - On va devoir remplir des missions spéciales, et valider notre progression avec des autocollants. :trophy:
-- Nos héros vont pouvoir acquérir de nouveaux pouvoirs, et on va faire muter les zombies. 
+- Nos héros vont pouvoir acquérir de nouveaux pouvoirs, et on va faire muter les zombies.
 
 <img src="https://storage.googleapis.com/abj_siteweb/zombie%20kidz%20evolution/04_ZKE_Socials_Reveal_03.jpg" alt="Zombie kidz évolution" width="300"/>
 
 #### Notre avis
 
-Malgré le thème, ce n'est vraiment pas un jeu qui fait peur. Il est indiqué 7 ans sur le boite, mais selon nous il est largement jouable dès 6 ans vu la simplicité des règles au début du jeu. 
+Malgré le thème, ce n'est vraiment pas un jeu qui fait peur. Il est indiqué 7 ans sur le boite, mais selon nous il est largement jouable dès 6 ans vu la simplicité des règles au début du jeu.
 Par contre, les plus grands et les parents ne vont pas s'ennuyer pour autant.
 C'est un jeu parfait pour faire décrocher les enfants de la console.
 
@@ -51,6 +51,5 @@ C'est un must have pour les enfants. Un cadeau de noël ou d'anniversaire parfai
 **Pour plus d'information, n'hésites pas à regarder cette vidéo d'une minute qui présente le jeu :**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=58M9MFrQtn8
-" target="_blank"><img src="http://img.youtube.com/vi/58M9MFrQtn8/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/58M9MFrQtn8/0.jpg"
 alt="vidéo zombie kidz evolution" width="480" height="360" border="20" /></a>
-
