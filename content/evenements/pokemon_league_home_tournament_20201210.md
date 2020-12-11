@@ -7,11 +7,11 @@ expirydate: 2020-12-10T23:00:00+00:00
 type: "evenements"
 category: "pokemon"
 sommaire: "Tournoi TCGO en préparation du Pokémon Team Challenge !"
-feature_image: http://aubeaujeu.com/images/evenements/pokemon.png
+feature_image: https://aubeaujeu.com/images/evenements/pokemon.png
 ---
 ### Dresseurs, il est temps de retourner dans l'arène !
 
-On vous donne rendez-vous Jeudi 26 Novembre pour un nouveau tournoi d'entrainement aux qualificatifs Team Challenge sur TCGO :fire: :fire: :fire:
+On vous donne rendez-vous Jeudi 10 Décembre pour un nouveau tournoi d'entrainement aux qualificatifs Team Challenge sur TCGO :fire: :fire: :fire:
 - Le tournoi sera au format **Standard avec Voltage éclatant (SL09 - EB04)**.
 - Nombre de rondes : 3 ou 4 selon le nombre de joueurs suivi d'un TOP2 ou TOP4 (comme ce sera le cas pour les Qualifiers !)
 - Best-Of-One (BO1) en 30 minutes

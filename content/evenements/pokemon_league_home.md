@@ -7,7 +7,7 @@ expirydate: 2020-11-19T23:00:00+00:00
 type: "evenements"
 category: "pokemon"
 sommaire: "Retrouvez les dresseurs de la ligue pour une soirée 100% Pokémon autour de TCGO. Matchs amicaux, échanges ou streaming !"
-feature_image: http://aubeaujeu.com/images/evenements/pokemon.png
+feature_image: https://aubeaujeu.com/images/evenements/pokemon.png
 ---
 ### Malgré la distance, retrouvez vos collègues Dresseurs !
 

@@ -8,7 +8,7 @@ date: 2020-11-23T10:00:00+00:00
 type: "evenements"
 category: "pokemon"
 sommaire: "Tournoi TCGO en préparation du Pokémon Team Challenge !"
-feature_image: http://aubeaujeu.com/images/evenements/pokemon.png
+feature_image: https://aubeaujeu.com/images/evenements/pokemon.png
 ---
 ### Dresseurs, il est temps de retourner dans l'arène !
 

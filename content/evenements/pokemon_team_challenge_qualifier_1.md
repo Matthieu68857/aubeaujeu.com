@@ -7,7 +7,7 @@ expirydate: 2020-12-05T23:00:00+00:00
 type: "evenements"
 category: "pokemon"
 sommaire: "Affrontez les joueurs de votre ligue pour intégrer l'équipe qui défendra celle-ci lors du Team Challenge !"
-feature_image: http://aubeaujeu.com/images/evenements/pokemon.png
+feature_image: https://aubeaujeu.com/images/evenements/pokemon.png
 ---
 ### Qu'est ce que le Pokemon Team Challenge ?
 

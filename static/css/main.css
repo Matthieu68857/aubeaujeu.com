@@ -411,16 +411,6 @@
   color:black;
 }
 
-.site-navigation {
-  top: 40px;
-}
-
-@media(max-width:575px){
-  .site-navigation{
-    top: 72px;
-  }
-}
-
 @media(max-width:575px){
   .col-rappel {
       -ms-flex: none;
@@ -479,30 +469,3 @@
 .site-navigation .nav-item:last-child {
     margin-left: 0px;
 }
-
-@media(max-width:767px){
-  .site-project-header {
-      padding: 170px 0 80px;
-  }
-}
-
-@media(max-width:575px){
-  .site-contact {
-      padding: 180px 0 100px;
-  }
-}
-
-@media (max-width: 575px){
-  .site-blog-header {
-      padding: 180px 0 100px;
-  }
-}
-
-@media (max-width: 575px){
-  .site-blog.details {
-      padding: 180px 0 100px;
-  }
-}
-
-
-site-blog details
