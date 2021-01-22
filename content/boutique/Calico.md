@@ -46,7 +46,7 @@ On s'en doute, il n'y a pas d'affrontement direct entre les joueurs. Par contre 
 
 Calico sera parfait pour vous si vous adorez Azul ou Patchwork, pour ne citer qu'eux. C'est un bon jeu de placement de tuiles, un très bon jeu de reflexion. On n'a pas testé, mais du coup nous pensons que le mode solo doit être assez intéressant. En plus, il y a dans les règles des petits scenarii ainsi que des objectifs à réaliser pour pimenter les parties.
 
-#### On n'a pas pu résister. En tant que grand amoureux des chats, on souhaitez partager la bouille de nos bébés avec vous ! :revolving_hearts:
+#### On n'a pas pu résister. En tant que grand amoureux des chats, on souhaitait partager la bouille de nos bébés avec vous ! :revolving_hearts:
 
 <img src="https://storage.googleapis.com/abj_siteweb/Calico/Hera.jpg" alt="Héra" width="400"/>
 <img src="https://storage.googleapis.com/abj_siteweb/Calico/Simba.JPG" alt="Simba" width="400"/>
