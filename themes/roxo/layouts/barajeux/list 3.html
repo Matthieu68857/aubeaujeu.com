@@ -1,0 +1,44 @@
+{{ define "main" }}
+
+<section class="site-project-header">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-8">
+        <div class="site-project-header-content">
+          <h1>
+            {{ .Params.heading | safeHTML }}
+          </h1>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <a href="#gallery_barajeux" class="site-project-header-action scroll-to">
+          <span>Jette un œil !</span>
+          <img src="{{ "images/arrow-down.svg" | absURL }}" alt="arrow-down">
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ partial "gallery_barajeux.html" . }}
+
+{{ partial "ludotheque.html" . }}
+
+<section>
+  <div id="lacarte" class="container">
+
+    <div class="center">
+      <div class="page_carte">
+        <img src="../images/barajeux/carte_recto.png" alt="" />
+      </div>
+      <div class="page_carte">
+        <img src="../images/barajeux/carte_verso.png" alt="" />
+      </div>
+    </div>
+
+  </div>
+</section>
+
+{{ partial "call-to-action3.html" . }}
+
+{{ end }}

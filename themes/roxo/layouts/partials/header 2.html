@@ -1,0 +1,60 @@
+<nav class="navbar navbar-expand-lg site-navigation">
+  <div class="container">
+    <a class="navbar-brand" href="{{ .Site.BaseURL }}">
+      <img src="{{ "images/logo.png" | absURL }}" alt="logo" />
+    </a>
+    <button
+      class="navbar-toggler collapsed"
+      type="button"
+      data-toggle="collapse"
+      data-target="#sitenavbar"
+    >
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="sitenavbar">
+      <ul class="navbar-nav ml-auto main-nav">
+
+        {{ $current := print (index (split .RelPermalink "/") 2) "/" }}
+        {{ $menu := .Site.Menus.nav }}
+        {{ range $menu }}
+           {{ if eq .URL $current }}
+           <li class="nav-item">
+             <a
+               class="nav-link btn btn-sm btn-primary btn-sm-rounded"
+               href="{{ .URL | absURL }}"
+             >
+               <span class="btn-area">
+                 <span data-text="{{ .Name }}">
+                   {{ .Name }}
+                 </span>
+               </span>
+             </a>
+           </li>
+           {{ else if and (eq $current "/") (eq .Name "Accueil") }}
+           <li class="nav-item">
+             <a
+               class="nav-link btn btn-sm btn-primary btn-sm-rounded"
+               href="{{ .URL | absURL }}"
+             >
+               <span class="btn-area">
+                 <span data-text="{{ .Name }}">
+                   {{ .Name }}
+                 </span>
+               </span>
+             </a>
+           </li>
+           {{ else }}
+           <li class="nav-item">
+             <a class="nav-link" href="{{ .URL | absURL }}">{{ .Name }} </a>
+           </li>
+           {{ end }}
+         {{ end }}
+
+
+      </ul>
+    </div>
+  </div>
+</nav>
