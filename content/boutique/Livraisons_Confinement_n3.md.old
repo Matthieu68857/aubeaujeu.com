@@ -1,6 +1,6 @@
 ---
-title: "Nous vous livrons chez vous pendant ce 2ème confinement !"
-date: 2020-11-02T12:00:00+00:00
+title: "Nous vous livrons chez vous pendant ce 3ème confinement !"
+date: 2021-03-23T12:00:00+00:00
 image: https://storage.googleapis.com/abj_siteweb/Flyer%20double%20zone%20livraison.png
 feature_image: https://storage.googleapis.com/abj_siteweb/Flyer%20double%20zone%20livraison.png
 author: Héloïse Bauchy
@@ -9,7 +9,7 @@ Sommaire : "Envie de jouer pendant ce confinement ? On vous livre chez vous, jus
 ---
 ### Envie de jouer pendant ce confinement ? On vous livre chez vous, jusqu'à 40km de Lille !
 
-*C'est reparti pour un deuxième confinement. C'est l'occasion de prendre le temps de jouer en famille, à 2 ou en solo. C'est pour cela que, comme lors du premier confinement, on vous livre directement chez vous, devant votre porte.*
+*C'est reparti pour un troisième confinement. Jamais 2 sans 3 ! C'est l'occasion de prendre le temps de jouer en famille, à 2 ou en solo. C'est pour cela que, comme lors du premier confinement, on vous livre directement chez vous, devant votre porte.*
 
 [Retrouvez notre catalogue de jeux disponibles en cliquant ici !](https://docs.google.com/spreadsheets/d/1etESSMA_qKfzhfcAgVwbmrUuN53cxLjdfDNTybdiJL8/edit?usp=sharing) :rocket:
 

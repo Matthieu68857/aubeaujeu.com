@@ -1,9 +1,9 @@
 ---
 title: "Team Challenge Summer - Qualifier n°3"
-jour: "24"
+jour: "25"
 mois: AVRIL
 author: Héloïse
-expirydate: 2021-04-24T23:00:00+00:00
+expirydate: 2021-04-25T23:00:00+00:00
 type: "evenements"
 category: "pokemon"
 sommaire: "Affrontez les joueurs de votre ligue pour intégrer l'équipe qui défendra celle-ci lors du Team Challenge !"
@@ -14,10 +14,10 @@ feature_image: https://aubeaujeu.com/images/evenements/pokemon.png
 Retrouvez toutes les informations ici : https://www.pokemon.com/uk/play-pokemon/team-challenge/summer-2021/
 
 Nous organisons donc 4 tournois qualificatifs en ligne :
-- Le 3 avril 2021 à 14h
-- Le 17 avril 2021 à 14h
-- Le 24 avril 2021 à 14h
-- Le 1er Mai 2021 à 14h
+- Le 4 avril 2021 à 14h
+- Le 18 avril 2021 à 14h
+- Le 25 avril 2021 à 14h
+- Le 2 Mai 2021 à 14h
 
 C'est totalement gratuit. Vous jouez depuis chez vous.
 
