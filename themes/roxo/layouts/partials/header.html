@@ -17,10 +17,12 @@
     <div class="collapse navbar-collapse" id="sitenavbar">
       <ul class="navbar-nav ml-auto main-nav">
 
-        {{ $current := print (index (split .RelPermalink "/") 2) "/" }}
+        {{ $current := print (index (split .RelPermalink "/") 1) "/" }}
         {{ $menu := .Site.Menus.nav }}
         {{ range $menu }}
+
            {{ if eq .URL $current }}
+
            <li class="nav-item">
              <a
                class="nav-link btn btn-sm btn-primary btn-sm-rounded"
@@ -48,7 +50,7 @@
            </li>
            {{ else }}
            <li class="nav-item">
-             <a class="nav-link" href="{{ .URL | absURL }}">{{ .Name }} </a>
+             <a class="nav-link" href="{{ .URL | absURL }}">{{ .Name }}</a>
            </li>
            {{ end }}
          {{ end }}
