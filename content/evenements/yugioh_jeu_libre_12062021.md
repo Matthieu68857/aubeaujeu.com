@@ -1,5 +1,5 @@
 ---
-title: "Tournoi Remote Duel OTS 13"
+title: "Jeu Libre OTS 14"
 jour: "12"
 mois: JUIN
 author: Héloïse

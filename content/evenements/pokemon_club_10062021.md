@@ -1,5 +1,5 @@
 ---
-title: "Club Pokémon - Tournoi TCGO"
+title: "Club Pokémon"
 jour: "10"
 mois: JUIN
 author: Héloïse
