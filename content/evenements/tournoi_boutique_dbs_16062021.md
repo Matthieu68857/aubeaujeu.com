@@ -21,7 +21,5 @@ Les places sont limitées, car le bar à jeux est ouvert à 50% de sa capacité.
 
 Petite restauration sur place, il y a tout ce qu'il faut pour passer un bon moment ! N'hésitez pas à venir faire un tour 🥪 🥤🍿
 
-Préinscriptions :
-José
 
 inscription par message sur la page Facebook, en boutique ou au 0627098873
