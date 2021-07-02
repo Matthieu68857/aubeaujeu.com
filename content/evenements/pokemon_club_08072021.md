@@ -15,8 +15,4 @@ Ca y est, c'est le retour du club Pokemon sur place !
 
 C'est l'occasion de venir enfin jouer les derniers decks, et de faire plein d'échange ! :Fire:
 
-Pour rappel, l’accès au bar à jeux est facturé 3€ pour la soirée ! Le bar sera ouvert jusqu’à 23h pour respecter le couvre feu.
-
-L’inscription est obligatoire car les places sont limitées. Nous ferons des tables de 6 maximum, mais il sera possible de faire plusieurs tables.
-
 Petite restauration et bière pression sur place, il y a tout ce qu'il faut pour passer un bon moment ! N'hésitez pas à venir faire un tour :heart_eyes:
