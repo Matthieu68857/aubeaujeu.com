@@ -3,7 +3,7 @@ title: "Club Pokémon"
 jour: "8"
 mois: JUILLET
 author: Héloïse
-expirydate: 2021-08-01T23:00:00+00:00
+expirydate: 2021-07-08T23:00:00+00:00
 type: "evenements"
 category: "pokemon"
 sommaire: "Le club Pokemon est de retour Au Beau Jeu !"
