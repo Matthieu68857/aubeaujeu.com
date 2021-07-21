@@ -12,7 +12,7 @@ sommaire: "Jeu de pose de tuiles à 2 joueurs"
 :busts_in_silhouette:  2 joueurs uniquement <br>
 :hourglass_flowing_sand: 20min la partie <br>
 :birthday: Dès 8 ans <br>
-:game_die: Dispo dans le bar à jeux et dans notre boutique de jeux de société à Lille <br>
+:game_die: Dispo dans notre bar à jeux et dans notre boutique de jeux de société à Lille <br>
 
 *C'est parti pour une plongée au coeur du récif d'Aqualin* :sailboat:
 

@@ -12,7 +12,7 @@ sommaire: "Enfin un nouvel Unlock !"
 :busts_in_silhouette:  De 2 à 6 joueurs <br>
 :hourglass_flowing_sand: 1h à 1h30 la partie <br>
 :birthday: Dès 10 ans <br>
-:game_die: Dispo en boutique et dans le bar à jeux <br>
+:game_die: Dispo dans notre bar à jeux et dans notre boutique de jeux de société à Lille <br>
 
 Nous en sommes déjà au 9ème Unlock ! (10 si on compte le Star Wars)... Et on ne s'en lasse toujours pas !
 

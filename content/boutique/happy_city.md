@@ -12,7 +12,7 @@ sommaire: "Batissez la ville du bonheur !"
 :busts_in_silhouette:  De 2 à 5 joueurs <br>
 :hourglass_flowing_sand: 30min partie <br>
 :birthday: Dès 10 ans <br>
-:game_die: Dispo dans le bar à jeux, et bientôt de retour en boutique <br>
+:game_die: Dispo dans notre bar à jeux, et bientôt de retour dans notre boutique de jeux de société à Lille <br>
 
 Lassé de la grisaille en ce mois de juillet ? :cloud: Marre des bâtiments froids et ternes ? Et si vous pouviez remettre de la joie, de la couleur et de la bonne humeur dans tout ça, le feriez-vous ? Si la réponse est oui, alors Happy City est fait pour vous ! :sunny:
 

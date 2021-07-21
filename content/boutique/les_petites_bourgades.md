@@ -14,7 +14,7 @@ Les Petites Bourgades, c'est un jeu de société qu'on a découvert au FIJ à Ca
 :busts_in_silhouette:  1 à 6 joueurs <br>
 :hourglass_flowing_sand: 45min la partie <br>
 :birthday: Dès 14 ans <br>
-:game_die: dispo en boutique et dans le bar à jeux <br>
+:game_die: Dispo dans notre bar à jeux et dans notre boutique de jeux de société à Lille <br>
 
 
 #### Quel est le principe du jeu ?

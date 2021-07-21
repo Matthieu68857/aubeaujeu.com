@@ -12,7 +12,7 @@ sommaire: "Zombie Kidz Evolution, le jeu cooperatif dès 7 ans"
 :busts_in_silhouette:  2 à 4 joueurs <br>
 :hourglass_flowing_sand: 25min la partie <br>
 :birthday: Dès 7 ans <br>
-:game_die: dispo en boutique <br>
+:game_die: dispo dans boutique de jeux de société à Lille <br>
 
 Zombie Kidz Evolution est sorti il y a plus d'un an déjà, mais nous n'avions pas eu l'occasion de vous en parler. Son grand frère Zombie Teenz Evolution venant de sortir, nous nous sommes dit qu'il était temps d'écrire un article sur ce jeu !
 

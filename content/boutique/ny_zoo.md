@@ -12,7 +12,7 @@ sommaire: "New York zoo, le nouveau jeu de société familial où l'on va pouvoi
 :busts_in_silhouette:  1 à 5 joueurs <br>
 :hourglass_flowing_sand: 30 à 60min la partie <br>
 :birthday: Dès 8 ans <br>
-:game_die: dispo en boutique et dans le bar à jeux <br>
+:game_die: Dispo dans notre bar à jeux et dans notre boutique de jeux de société à Lille <br>
 
 
 #### Quel est le principe du jeu ?

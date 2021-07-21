@@ -12,7 +12,7 @@ sommaire: "Apportez une touche de printemps à votre hiver"
 :busts_in_silhouette:  2 à 4 joueurs <br>
 :hourglass_flowing_sand: 30 à 45min la partie <br>
 :birthday: Dès 8 ans <br>
-:game_die: Dispo en boutique et dans le bar à jeux <br>
+:game_die: Dispo dans notre bar à jeux et dans notre boutique de jeux de société à Lille <br>
 
 Vous aussi, vous en avez marre de cet hiver lonnng et confiné ? Buzz va y apporter de la couleur et du printemps ! :sunflower:
 

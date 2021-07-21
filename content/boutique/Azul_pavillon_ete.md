@@ -12,7 +12,7 @@ sommaire: "On l’aime autant que le 1er, et on le préfère largement au 2 !"
 :busts_in_silhouette:  De 2 à 4 joueurs <br>
 :hourglass_flowing_sand: 30min à 1h la partie <br>
 :birthday: Dès 8 ans <br>
-:game_die: Dispo en boutique et dans le bar à jeux <br>
+:game_die: Dispo dans notre bar à jeux et dans notre boutique de jeux de société à Lille <br>
 
 Après plusieurs mois en rupture de stock, Azul Pavillon d'été, le 3ème opus de la série de jeux Azul, est enfin de retour en stock ! On en profite pour vous le présenter.
 

@@ -12,7 +12,7 @@ sommaire: "Schotten totten 2, le nouveau jeu 2 joueurs qui occupera votre confin
 :busts_in_silhouette:  2 joueurs <br>
 :hourglass_flowing_sand: 20min la partie <br>
 :birthday: Dès 8 ans <br>
-:game_die: Sortie le 20 novembre en boutique - dispo dans le bar à jeux <br>
+:game_die: Dispo dans notre bar à jeux et dans notre boutique de jeux de société à Lille <br>
 
 Près de 20 ans après la sortie de son grand frère, le petit dernier de la famille vient de voir le jour ! Et franchement, on n'est pas déçu. Le jeu apporte vraiment de la modernité.
 

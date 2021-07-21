@@ -12,7 +12,7 @@ sommaire: "Le petit frère d'Azul et Patchwork "
 :busts_in_silhouette:  1 à 4 joueurs <br>
 :hourglass_flowing_sand: 30 à 45min la partie <br>
 :birthday: Dès 10 ans <br>
-:game_die: Dispo en boutique et dans le bar à jeux <br>
+:game_die: Dispo dans notre bar à jeux et dans notre boutique de jeux de société à Lille <br>
 
 Vous aussi vous êtes #TeamChats ? Alors ce jeu vous plaira ! :cat:
 

@@ -12,7 +12,7 @@ sommaire: "Un très bon jeu de deckbuilding pour 2 joueurs "
 :busts_in_silhouette:  2 joueurs <br>
 :hourglass_flowing_sand: 30 à 60min la partie <br>
 :birthday: Dès 11 ans <br>
-:game_die: Dispo en boutique et dans le bar à jeux <br>
+:game_die: Dispo dans notre bar à jeux et dans notre boutique de jeux de société à Lille <br>
 
 *Vous rêvez de vous rendre à Poudlard pour y étudier ? :mortar_board:
 <br> De botter les fesses de vous savez qui ? :nose:

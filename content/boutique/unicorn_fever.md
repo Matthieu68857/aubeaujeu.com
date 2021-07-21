@@ -12,7 +12,7 @@ sommaire: "Oubliez les rennes de Noël ou les chameaux de Camel Up, place aux li
 :busts_in_silhouette:  2 à 6 joueurs <br>
 :hourglass_flowing_sand: 30 à 60min la partie <br>
 :birthday: Dès 10 ans <br>
-:game_die: dispo en boutique et dans le bar à jeux <br>
+:game_die: Dispo dans notre bar à jeux et dans notre boutique de jeux de société à Lille <br>
 
 
 #### Quel est le principe du jeu ?

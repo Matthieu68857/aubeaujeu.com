@@ -12,7 +12,7 @@ sommaire: "Nous avons enfin pu finir les 3 scénarii du nouvel Unlock !"
 :busts_in_silhouette:  De 2 à 6 joueurs <br>
 :hourglass_flowing_sand: 1h à 1h30 la partie <br>
 :birthday: Dès 10 ans <br>
-:game_die: Dispo en boutique et dans le bar à jeux <br>
+:game_die: Dispo dans notre bar à jeux et dans notre boutique de jeux de société à Lille <br>
 
 *Teasé rapidement à Cannes lors du Festival International des Jeux, ce partenariat pour le moins inattendu offre trois scénarios inédits sur le thème de la guerre des étoiles. Et ça marche du tonnerre !*
 
@@ -23,6 +23,3 @@ On avait peur que la licence soit juste un argument de vente. Mais il s'avère q
 
 Cet Unlock sera globalement plus simple que les précédents. Il est parfait pour plonger dans l'univers des escape game sur plateau Unlock !, sans être perdu.<br>
 > **Un Unlock idéal pour débuter**
-
-
-

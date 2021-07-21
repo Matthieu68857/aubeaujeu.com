@@ -12,7 +12,7 @@ sommaire: "Envie d'évasion ? Le magnifique Papillon saura vous transportez dans
 :busts_in_silhouette:  De 2 à 4 joueurs <br>
 :hourglass_flowing_sand: 30min à 45min la partie <br>
 :birthday: Dès 14 ans <br>
-:game_die: Dispo en boutique et dans le bar à jeux <br>
+:game_die: Dispo dans notre bar à jeux et dans notre boutique de jeux de société à Lille <br>
 
 Papillons, on ne s’en lasse pas depuis qu’on l’a découvert à Cannes cette année.
 
