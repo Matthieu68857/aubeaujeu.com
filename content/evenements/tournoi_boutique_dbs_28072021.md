@@ -3,6 +3,7 @@ title: "Tournoi Boutique"
 jour: "28"
 mois: JUILLET
 author: Héloïse
+expirydate: 2021-07-28T23:00:00+00:00
 type: "evenements"
 category: "dragonball"
 sommaire: "Venez affronter les combattants dans le tournoi dragon ball super card game !"
