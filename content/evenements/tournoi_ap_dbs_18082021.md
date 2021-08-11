@@ -1,9 +1,9 @@
 ---
 title: "Avant première"
-jour: "18"
+jour: "25"
 mois: AOUT
 author: Héloïse
-expirydate: 2021-08-18T23:00:00+00:00
+expirydate: 2021-08-25T23:00:00+00:00
 type: "evenements"
 category: "dragonball"
 sommaire: "Avant première BT14"
