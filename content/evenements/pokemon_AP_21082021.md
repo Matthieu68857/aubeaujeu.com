@@ -1,0 +1,29 @@
+---
+title: "Club Pokémon"
+jour: "21"
+mois: AOUT
+author: Héloïse
+expirydate: 2021-08-21T23:00:00+00:00
+type: "evenements"
+category: "pokemon"
+sommaire: "Avant première Pokemon EB07 Evolution Celeste !"
+feature_image: https://aubeaujeu.com/images/evenements/pokemon.png
+---
+### Dresseurs, il est temps de découvrir Evolution Celeste, la nouvelle extension Pokemon !
+
+Attention : pass sanitaire obligatoire pour venir jouer !
+
+Les sessions d'avant-première d'Epée et Bouclier du JCC Pokémon permettent aux joueurs de se procurer et de jouer avec des cartes de la nouvelle extension Epée et Bouclier deux semaines avant sa date de sortie officielle.
+
+Les participants reçoivent une boîte d'avant-première contenant un pack Évolution de 23 cartes (dont 1 carte promo brillante exclusive parmi 4) et 4 boosters EB07 + 3 boosters EB07 à la fin du tournoi
+
+Il faut se composer un deck de 40 cartes avec. Puis les match se joueront en 4 récompenses.
+
+Pour participer, il faut impérativement connaitre les règles du jeu Pokemon !
+
+PAF : 35€
+Début du tournoi à 10h.
+
+Inscription obligatoire par message ou en boutique.
+
+Si nous ne vous répondons pas, c'est que vous vous êtes inscrit au mauvais endroit. Vous devez recevoir une confirmation de notre part, sinon il faut nous renvoyer un message ou venir en boutique :)
