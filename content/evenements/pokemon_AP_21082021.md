@@ -17,7 +17,7 @@ Attention : pass sanitaire obligatoire pour venir jouer !
 
 Jeudi 19 à 19h
 Samedi 21 à 10h
-Samedi 21 à 14h
+Samedi 21 à 14hs
 
 Les sessions d'avant-première d'Epée et Bouclier du JCC Pokémon permettent aux joueurs de se procurer et de jouer avec des cartes de la nouvelle extension Epée et Bouclier deux semaines avant sa date de sortie officielle.
 
