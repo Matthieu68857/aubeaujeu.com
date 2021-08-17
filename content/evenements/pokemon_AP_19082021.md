@@ -1,9 +1,9 @@
 ---
 title: "Avant première"
-jour: "21"
+jour: "19"
 mois: AOUT
 author: Héloïse
-expirydate: 2021-08-21T23:00:00+00:00
+expirydate: 2021-08-19T23:00:00+00:00
 type: "evenements"
 category: "pokemon"
 sommaire: "Avant première Pokemon EB07 Evolution Celeste !"
@@ -28,7 +28,7 @@ Il faut se composer un deck de 40 cartes avec. Puis les match se joueront en 4 r
 Pour participer, il faut impérativement connaitre les règles du jeu Pokemon !
 
 PAF : 35€
-Début du tournoi à 10h.
+Début du tournoi à 19h.
 
 Inscription obligatoire par message ou en boutique.
 

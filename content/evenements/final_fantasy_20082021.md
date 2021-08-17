@@ -18,8 +18,7 @@ feature_image: https://aubeaujeu.com/images/evenements/ff.png
 - 3 ou 4 rondes selon nombre de participants.
 
 Format Construit tout ce qu'il y a de plus classique ^^
-Pour vous restaurer, des snacks, softs, planches saucissons/fromage et des bières sont disponible 😃
+Pour vous restaurer, des snacks, softs, planches saucissons/fromage et des bières sont disponibles 😃
 Pour vous pré-inscrire, vous pouvez soit répondre ici, soit nous contacter par message privé 😃
 
 Lien challonge pour l'inscription :
-https://challonge.com/fr/fftcg_abj_construit_20
