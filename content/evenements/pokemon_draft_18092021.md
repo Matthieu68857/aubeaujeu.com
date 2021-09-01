@@ -1,9 +1,9 @@
 ---
 title: "Draft Pokémon"
-jour: "02"
+jour: "18"
 mois: SEPTEMBRE
 author: Héloïse
-expirydate: 2021-09-02T23:00:00+00:00
+expirydate: 2021-09-18T23:00:00+00:00
 type: "evenements"
 category: "pokemon"
 sommaire: "Draft anglais Evolution Celeste"
