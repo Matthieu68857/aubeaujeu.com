@@ -11,7 +11,7 @@ feature_image: https://aubeaujeu.com/images/evenements/pokemon.png
 ---
 ### Dresseurs, il est temps de retourner dans l'arène !
 
-CAttention, pass sanitaire obligatoire !
+Attention, pass sanitaire obligatoire !
 
 Samedi 18 Septembre à 14h : Draft en Anglais Pokemon sur la dernière extension : Evolution Céleste
 
