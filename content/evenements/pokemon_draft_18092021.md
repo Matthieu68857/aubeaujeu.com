@@ -28,8 +28,9 @@ Matthieu
 
 - Les match se feront en BO3
 - 40 cartes par deck
-- 4 prix.
-- Draft mutant : un niveau 1/2 peut évoluer sur n'importe quel pokemon tant qu'il est du même type que lui.
+- 4 prix
+- Draft mutant : un niveau 1/2 peut évoluer sur n'importe quel pokemon tant qu'il est du même type que lui
+- La repartition des cartes se fera en fonction du classement : Le 1er du tournoi choisit une carte, puis ce sera au deuxieme, etc.
 
 Vous devez obligatoirement avoir des sleeves !
 
