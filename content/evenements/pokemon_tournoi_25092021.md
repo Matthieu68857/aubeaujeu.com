@@ -1,7 +1,7 @@
 ---
 title: "Tournoi amical Pokémon"
 jour: "25"
-mois: JUILLET
+mois: Septembre
 author: Héloïse
 expirydate: 2021-09-25T23:00:00+00:00
 type: "evenements"
