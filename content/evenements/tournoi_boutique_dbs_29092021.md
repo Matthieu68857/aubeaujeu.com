@@ -1,9 +1,9 @@
 ---
 title: "Tournoi Boutique"
-jour: "22"
+jour: "29"
 mois: SEPTEMBRE
 author: Héloïse
-expirydate: 2021-09-22T23:00:00+00:00
+expirydate: 2021-09-29T23:00:00+00:00
 type: "evenements"
 category: "dragonball"
 sommaire: "Nouveaux Kits Unison Warrior Series Tournament Vol 5 !"

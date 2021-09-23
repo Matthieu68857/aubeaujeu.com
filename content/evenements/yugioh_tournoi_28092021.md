@@ -1,9 +1,9 @@
 ---
 title: "Tournoi OTS 16"
-jour: "21"
+jour: "28"
 mois: SEPTEMBRE
 author: Héloïse
-expirydate: 2021-09-21T23:00:00+00:00
+expirydate: 2021-09-28T23:00:00+00:00
 type: "evenements"
 category: "yugioh"
 sommaire: "Tournoi OTS 16"
@@ -13,7 +13,7 @@ feature_image: http://aubeaujeu.com/images/evenements/yugioh.png
 
 Les tournois Yu-Gi-Oh! reprennent !
 
-- SAMEDI :  début du tournoi à 19h
+- MARDI :  début du tournoi à 19h
 - PAF: 5€
 - PRIZE: 1x OTS 16 par joueur et des lots en plus pour le top
 
