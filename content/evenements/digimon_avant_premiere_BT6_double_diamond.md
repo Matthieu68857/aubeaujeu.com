@@ -19,6 +19,6 @@ Tous les participants vont recevoir 6 boosters de la nouvelle extension Double D
 
 Il y aura en plus des cartes promo exclusive à cette avant première pour tous !
 
-Il y a 8 places pour ce 1er tournoi.
+Il y a 16 places pour ce 1er tournoi.
 
 L'inscription est obligatoire en boutique, par sms au 0627098873, ou par message privé sur facebook (attention, il faut une confirmation de notre part 😃)
