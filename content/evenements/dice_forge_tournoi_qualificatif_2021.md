@@ -11,7 +11,7 @@ feature_image: http://aubeaujeu.com/images/evenements/quizz.png
 ---
 ### Dice Forge : tournoi physique de qualification Challenge of the Gods 2021 !
 
-Ce vendredi 2 octobre, nous organisons un tournoi Dice Forge, afin de savoir qui est le meilleur joueur d'Au Beau Jeu ! Le gagnant du tournoi sera qualifié pour participer aux tournois éliminatoires de la coupe de France. :sunglasses:
+Ce vendredi 8 octobre, nous organisons un tournoi Dice Forge, afin de savoir qui est le meilleur joueur d'Au Beau Jeu ! Le gagnant du tournoi sera qualifié pour participer aux tournois éliminatoires de la coupe de France. :sunglasses:
 
 Attention, c'est une coupe de France. Il faut donc être de nationalité Française pour jouer (désolés pour nos amis Belges :sob: )
 
