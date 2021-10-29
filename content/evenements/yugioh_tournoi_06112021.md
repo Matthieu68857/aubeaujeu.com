@@ -3,7 +3,7 @@ title: "Tournoi OTS 17"
 jour: "6"
 mois: OCTOBRE
 author: Héloïse
-expirydate: 2021-10-02T23:00:00+00:00
+expirydate: 2021-11-06T23:00:00+00:00
 type: "evenements"
 category: "yugioh"
 sommaire: "Tournoi OTS 17"
