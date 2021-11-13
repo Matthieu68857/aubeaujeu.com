@@ -1,22 +1,31 @@
 ---
-title: "Soirée Loups Garous"
-jour: "9"
-mois: OCTOBRE
+title: "Soirée Loups Garous Les Vilains de Disney ! "
+jour: "20"
+mois: NOVEMBRE
 author: Héloïse
-expirydate: 2021-10-09T23:00:00+00:00
+expirydate: 2021-11-20T23:00:00+00:00
 type: "evenements"
 category: "loupgarou"
 sommaire: "Le Retour !"
 feature_image: http://aubeaujeu.com/images/evenements/loupgarou.png
 ---
-### Tournoi 7 Fallen !
+### Soirée Loups Garous Les Vilains de Disney !
 
-Vous les attendiez, elles vous avez manquées... Les soirées Loups Garous sont de retour !!
+Ce samedi 20 Novembre, nous animons une soirée Loups Garous avec les Vilains de Disney 😃
 
-Thiercelieux est un joli petit village de l'Est, bien à l'abri des vents et du froid, niché entre de charmantes forêts et de bons pâturages. Les habitants de Thiercelieux sont d'affables paysans, heureux de leur tranquillité et fiers de leur travail. Mais voilà que cette paisible vie est troublée depuis quelques temps par des attaques incessantes de loups-garous. Les habitants du village se doivent de réagir avant de tous y passer.
+La soirée débutera à 19h30, jusque 23h30
 
-Venez, seul ou à plusieurs, passer une soirée Loups Garous au Beau Jeu animée par Steeves ! 😃
+Prix par personne : 8€
 
-Entrée : 5€ par personne
+12 places - pass sanitaire obligatoire
 
-Inscription obligatoire par message privé FB, en boutique ou au 0627098873 😃
+Inscription obligatoire par message sur Facebook ou par SMS au 0627098873 ! (il faut bien recevoir une confirmation de notre part)
+
+Dans l'Assemblée des Vilains : Un Jeu Loups-Garous, incarnez un méchant de Disney tel que Maléfique, Hadès ou le Capitaine Crochet dans un royaume sombre accompagné de vos sbires !
+
+Imaginez un royaume sombre et désolé, rempli uniquement de chaos et de malheurs, où seuls les méchants les plus puissants peuvent survivre et prospérer. Dans un monde où tout le monde est méchant, y a-t-il quelqu'un à qui l'on puisse vraiment faire confiance ?
+
+Deux équipes se battent pour le contrôle, alternant les phases de jour et de nuit. Chaque nuit, les méchants se réveillent un par un et utilisent leurs capacités uniques pour poursuivre leurs objectifs.
+
+Chaque jour, l'assemblée débat et tente de démasquer les traîtres parmi eux, mais comme personne ne sait dans quelle équipe il se trouve, il sera difficile de se faire confiance et le bluff sera le meilleur moyen de dominer leur nouvel environnement.
+Bien que chaque rôle soit connu des autres joueurs, chaque personnage a également un "alignement secret" qui détermine son objectif - ce qui rend encore plus difficile de savoir à qui faire confiance !

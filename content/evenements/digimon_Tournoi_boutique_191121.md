@@ -1,5 +1,5 @@
 ---
-title: "Avant Première Digimon"
+title: "Tournoi Digimon"
 jour: "19"
 mois: NOVEMBRE
 author: Héloïse
