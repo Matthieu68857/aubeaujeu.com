@@ -13,6 +13,8 @@ feature_image: http://aubeaujeu.com/images/evenements/quizz.png
 
 Ce Samedi 18 décembre, venez fêter Noël avec nous !
 
+La soirée commence à 19h.
+
 Pour l'occasion, on organise une soirée Pulls Moches de Noël : Venez avec votre plus Beau pull Moche !
 
 Une élection aura lieu au cours de la soirée, avec évidemment des cadeaux à gagner !

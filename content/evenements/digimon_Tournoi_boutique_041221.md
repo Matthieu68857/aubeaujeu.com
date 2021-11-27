@@ -13,7 +13,10 @@ feature_image: http://aubeaujeu.com/images/evenements/jdr.png
 
 Nous organisons notre 2eme tournoi Digimon
 
-PAF : 5€
+* PAF : 5€
+* Accueil dès 10h
+* Début du tournoi à 10h15
+
 
 Le tournoi sera au format standard.
 

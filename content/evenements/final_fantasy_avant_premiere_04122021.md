@@ -11,7 +11,10 @@ feature_image: https://aubeaujeu.com/images/evenements/ff.png
 ---
 ### Avant première final fantasy Opus XV !
 
-- Paf: 50€
+* Paf: 50€
+* Accueil dès 10H
+* Début du tournoi à 10h15
+
 
 Un kit contient 9 boosters de l’OPUS XIV, 1 paquet de sleeve Omega, et une carte promo Tifa
 
