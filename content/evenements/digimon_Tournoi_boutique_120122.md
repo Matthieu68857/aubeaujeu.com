@@ -21,7 +21,7 @@ Le tournoi sera au format standard.
 Attention, les proxy ne sont plus autorisés !
 
 lots :
-1 booster Tournament Kit Vol. 3 par joueur;
+1 booster Tournament Kit Vol. 2 par joueur;
 1 Deckbox pour le 1er (pour le 2ème aussi si il y a au moins 12 participants)
 
 L'inscription est obligatoire en boutique, par sms au 0627098873, ou par message privé sur Facebook (attention, il faut une confirmation de notre part 😃)
