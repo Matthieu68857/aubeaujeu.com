@@ -5,9 +5,9 @@ mois: DECEMBRE
 author: Héloïse
 expirydate: 2021-12-09T23:00:00+00:00
 type: "evenements"
-category: "jdr"
+category: "digimon"
 sommaire: "Double Diamond"
-feature_image: http://aubeaujeu.com/images/evenements/jdr.png
+feature_image: http://aubeaujeu.com/images/evenements/digimon.png
 ---
 ### Tournoi local Digimon
 

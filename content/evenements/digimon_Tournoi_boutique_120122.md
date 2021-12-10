@@ -5,9 +5,9 @@ mois: JANVIER
 author: Héloïse
 expirydate: 2022-01-12T23:00:00+00:00
 type: "evenements"
-category: "jdr"
+category: "digimon"
 sommaire: "Kit de tournoi Volume 2"
-feature_image: http://aubeaujeu.com/images/evenements/jdr.png
+feature_image: http://aubeaujeu.com/images/evenements/digimon.png
 ---
 ### Tournoi local Digimon
 

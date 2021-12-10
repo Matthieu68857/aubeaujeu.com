@@ -5,9 +5,9 @@ mois: OCTOBRE
 author: Héloïse
 expirydate: 2021-10-09T23:00:00+00:00
 type: "evenements"
-category: "jdr"
+category: "digimon"
 sommaire: "Double Diamond"
-feature_image: http://aubeaujeu.com/images/evenements/jdr.png
+feature_image: http://aubeaujeu.com/images/evenements/digimon.png
 ---
 ### Avant Première Digimon BT06 Double Diamond !
 
