@@ -1,29 +1,29 @@
 ---
 title: "Tournoi amical Pokémon"
-jour: "26"
-mois: JUIN
+jour: "15"
+mois: JANVIER
 author: Héloïse
-expirydate: 2021-06-26T23:00:00+00:00
+expirydate: 2022-01-15T23:00:00+00:00
 type: "evenements"
 category: "pokemon"
 sommaire: "Tournoi amical, proxy autorisés !"
 feature_image: https://aubeaujeu.com/images/evenements/pokemon.png
 ---
-### Ca y est, nous organisons notre premier tournoi physique Pokemon depuis longtemps !
+### ça y est, nous organisons notre premier tournoi physique Pokemon depuis longtemps !
 
-* Début du tournoi à 19h
+* Accueil dès 10h
+* Début du tournoi à 10h15
 * BO3
-* Paf : 8€
-* Lot : 1 booster EB05 anglais par personne
-* Proxy autorisés
-* De Duo de choc à Règne des glaces
+* Paf : 9€
+* Lots : 1 booster EB08 Français par joueur
+* Pour le TOP 4 : 1 Carte PCA de classement exclusive
 
-Il y a de quoi boire et de quoi manger sur place
+Il y a de quoi boire et de quoi manger sur place 😃
 
-Les cartes EB06 seront autorisées ! (Les cartes jouables iront donc de duo de choc à règne des glaces)
+Les cartes EB08 seront autorisées ! (Les cartes autorisées vont donc de Epée et Bouclier à Poing de Fusion)
 
-Les proxy seront autorisés, en français ou en anglais (maximum 50% de votre deck) !
-Pour faire un proxy, vous devez mettre une carte Pokemon énergie sous votre fausse carte imprimée. N'hésitez pas si vous avez des questions.
+Les proxy ne seront pas autorisés !
 
 L'inscription est obligatoire, car le nombre de places est limité !
+
 Vous pouvez vous inscrire par message privé Facebook ou directement en boutique.
