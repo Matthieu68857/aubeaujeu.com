@@ -3,6 +3,7 @@ title: "Club Pokémon"
 jour: "20"
 mois: JANVIER
 author: Héloïse
+expirydate: 2022-01-20T23:00:00+00:00
 type: "evenements"
 category: "pokemon"
 sommaire: "Le club Pokemon est de retour Au Beau Jeu !"
