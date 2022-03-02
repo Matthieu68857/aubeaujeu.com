@@ -1,9 +1,9 @@
 ---
 title: "Tournoi Digimon"
-jour: "3"
+jour: "17"
 mois: MARS
 author: Héloïse
-expirydate: 2022-03-03T23:00:00+00:00
+expirydate: 2022-03-17T23:00:00+00:00
 type: "evenements"
 category: "digimon"
 sommaire: "Kit de tournoi Volume 2"
