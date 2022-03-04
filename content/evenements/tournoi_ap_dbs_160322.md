@@ -1,9 +1,9 @@
 ---
 title: "Avant première"
-jour: "16"
+jour: "23"
 mois: MARS
 author: Héloïse
-expirydate: 2022-03-16T23:00:00+00:00
+expirydate: 2022-03-23T23:00:00+00:00
 type: "evenements"
 category: "dragonball"
 sommaire: "Avant première BT16"
