@@ -16,5 +16,9 @@ Participation : 5€ par personne
 Début : 19H30
 
 Vous pouvez vous inscrire directement en équipe. Vous pouvez aussi venir seul, on se chargera de vous trouver des partenaires ! 😃
-Petite restauration sur place, il y a tout ce qu'il faut pour passer un bon moment ! N'hésitez pas à venir faire un tour 🥪🍪🍻
+
+Petite restauration sur place, il y a tout ce qu'il faut pour passer un bon moment !
+
+N'hésitez pas à venir faire un tour 🥪🍪🍻
+
 Inscription obligatoire par message sur la page facebook, en boutique ou au 0627098873 par sms
