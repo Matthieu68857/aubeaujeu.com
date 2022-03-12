@@ -1,0 +1,21 @@
+---
+title: "Tournoi OTS 18"
+jour: "18"
+mois: MARS
+author: Héloïse
+expirydate: 2022-03-18T23:00:00+00:00
+type: "evenements"
+category: "yugioh"
+sommaire: "Tournoi OTS"
+feature_image: http://aubeaujeu.com/images/evenements/yugioh.png
+---
+### Les tournois OTS reprennent !
+
+Les tournois Yu-Gi-Oh! reprennent !
+
+- MARDI :  début du tournoi à 19H
+- PAF: 5€
+- PRIZE: 1x OTS 18 par joueur et des lots en plus pour le top
+
+L'inscription est obligatoire afin que l'on réserver le bon nombre de tables !
+Inscription par message sur la page facebook ou par SMS (attention, pas d'appel !) au 0627098873
