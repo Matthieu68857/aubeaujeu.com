@@ -6,7 +6,7 @@ author: Héloïse
 expirydate: 2022-04-09T23:00:00+00:00
 type: "evenements"
 category: "jdr"
-sommaire: "1er tournoi 7 Fallen"
+sommaire: "tournoi 7 Fallen"
 feature_image: http://aubeaujeu.com/images/evenements/jdr.png
 ---
 ### Tournoi 7 Fallen !
