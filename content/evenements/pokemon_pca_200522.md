@@ -1,5 +1,5 @@
 ---
-title: "Evenement PCA"
+title: "Gradation PCA et Tournoi Win A box"
 jour: "20"
 mois: MAI
 author: Héloïse
