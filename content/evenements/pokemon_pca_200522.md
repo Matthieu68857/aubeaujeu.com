@@ -40,7 +40,6 @@ Vous pourrez récupérer vos cartes 1 mois et demi plus tard, début juillet, di
 
 Prix : 15€ par carte.  <br>
 Les cartes sont assurées jusqu’à 250€ de valeur. <br>
-Pas de limite de cartes.  <br>
 Il n'y a pas besoin de s'inscrire pour le grading, il suffit de venir entre 14h et 22h et faire la queue 🙂 <br>
 
 ———————————————————————
