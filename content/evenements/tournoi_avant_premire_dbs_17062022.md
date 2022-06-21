@@ -1,9 +1,9 @@
 ---
-title: "Tournoi Boutique"
-jour: "17"
+title: "Avant première"
+jour: "24"
 mois: JUIN
 author: Héloïse
-expirydate: 2022-06-17T23:00:00+00:00
+expirydate: 2022-06-24T23:00:00+00:00
 type: "evenements"
 category: "dragonball"
 sommaire: "Avant premiere"
