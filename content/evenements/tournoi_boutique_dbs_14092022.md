@@ -1,21 +1,21 @@
 ---
 title: "Tournoi Boutique"
-jour: "10"
-mois: AOUT
+jour: "14"
+mois: NOVEMBRE
 author: Héloïse
-expirydate: 2022-08-10T23:00:00+00:00
+expirydate: 2022-09-14T23:00:00+00:00
 type: "evenements"
 category: "dragonball"
-sommaire: "Nouveaux Kits Unison Warrior Series Tournament Vol 8 !"
+sommaire: "Nouveaux Kits Unison Warrior Series Tournament !"
 feature_image: http://aubeaujeu.com/images/evenements/dragonball.png
 ---
-### Nouveaux Kits Unison Warrior Series Tournament Vol 8 !
+### Nouveaux Kits Unison Warrior Series Tournament !
 
-Début du tournoi à 19h30 !
+Début du tournoi à 19h !
 
 Tournoi BOUTIQUE: 5€
 
-Lots : Unisson warrior series tournament kit Volume 8
+Lots : Unisson warrior series tournament kit
 
 
 Petite restauration sur place, il y a tout ce qu'il faut pour passer un bon moment ! N'hésitez pas à venir faire un tour 🥪 🥤🍿
