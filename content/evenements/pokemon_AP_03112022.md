@@ -1,9 +1,9 @@
 ---
 title: "Big Métamorph Challenge"
-jour: "5"
+jour: "3"
 mois: NOVEMBRE
 author: Héloïse
-expirydate: 2022-11-05T23:00:00+00:00
+expirydate: 2022-11-03T23:00:00+00:00
 type: "evenements"
 category: "pokemon"
 sommaire: "Avant première Pokemon EB12 Tempête Argentée !"
