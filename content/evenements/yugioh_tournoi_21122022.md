@@ -1,9 +1,9 @@
 ---
 title: "Tournoi OTS 20"
-jour: "13"
+jour: "21"
 mois: DECEMBRE
 author: Héloïse
-expirydate: 2022-12-13T23:00:00+00:00
+expirydate: 2022-12-21T23:00:00+00:00
 type: "evenements"
 category: "yugioh"
 sommaire: "Tournoi OTS 20"
@@ -13,7 +13,7 @@ feature_image: http://aubeaujeu.com/images/evenements/yugioh.png
 
 Les tournois Yu-Gi-Oh! ont lieu chaque semaine Au Beau Jeu !
 
-- MARDI :  début du tournoi à 19h
+- MERCREDI :  début du tournoi à 19h
 - PAF: 5€
 - PRIZE: 1x OTS 20 par joueur et des lots en plus pour le top
 
