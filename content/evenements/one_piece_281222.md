@@ -1,9 +1,9 @@
 ---
-title: "Tournoi One Piece"
-jour: "21"
+title: "Tournoi One Piece : Special Cartes promo Red"
+jour: "28"
 mois: DECEMBRE
 author: Héloïse
-expirydate: 2022-12-21T23:00:00+00:00
+expirydate: 2022-12-28T23:00:00+00:00
 type: "evenements"
 category: "onepiece"
 sommaire: "Tournoi One Piece TCG !"
@@ -17,9 +17,15 @@ PAF : 5€
 Format : Standard : Starter + OP01 + Promo
 Cartes anglaises uniquement autorisées (pas les japonaises)
 
-Lots :
-1 booster promotionnel Volume 1 par joueur
-1 carte Winner par tranche de 8 joueurs
+Cette fois ci, il n'y aura pas de booster promo ni de cartes Winner à gagner !
+
+Les lots :
+1 Pack de Promo One Piece RED
+
+Par tranche de 8 joueurs :
+1 Carte Don Japonaise
+1 Carte promotionnelle "I'm Gonna Be King of the Pirates !!"
+
 
 Il faut s'inscrire auprès de nous, en boutique ou par SMS au 0627098873, puis sur Bandai TCG+.
 
