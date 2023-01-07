@@ -13,6 +13,8 @@ feature_image: https://aubeaujeu.com/images/evenements/pokemon.png
 
 Tournoi Amical d'entrainement Jeu vidéo Pokemon !
 
+Début du tournoi : 14h30
+
 Le tournoi se fera avec le nouveau jeu Pokemon Ecarlate et Violet sur Switch.
 
 Il n'y a pas encore de CP à gagner.

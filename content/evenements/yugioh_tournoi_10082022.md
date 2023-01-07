@@ -1,6 +1,6 @@
 ---
-title: "Tournoi OTS 19"
-jour: "10"
+title: "Tournoi OTS 20"
+jour: "3"
 mois: AOUT
 author: Héloïse
 expirydate: 2022-08-10T23:00:00+00:00
