@@ -1,9 +1,9 @@
 ---
 title: "Tournoi amical Pokémon"
-jour: "13"
-mois: MAI
+jour: "3"
+mois: FEVRIER
 author: Héloïse
-expirydate: 2022-05-13T23:00:00+00:00
+expirydate: 2023-02-03T23:00:00+00:00
 type: "evenements"
 category: "pokemon"
 sommaire: "Tournoi amical, proxy autorisés !"
@@ -11,7 +11,7 @@ feature_image: https://aubeaujeu.com/images/evenements/pokemon.png
 ---
 ### ça y est, nous organisons notre premier tournoi physique Pokemon depuis longtemps !
 
-* Accueil dès 18h
+* Accueil dès 18h30
 * Début du tournoi à 19h
 * BO3
 * Paf : 8€

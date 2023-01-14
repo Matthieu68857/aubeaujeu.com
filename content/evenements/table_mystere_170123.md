@@ -1,9 +1,9 @@
 ---
 title: "Table Mystère"
-jour: "10"
+jour: "17"
 mois: JANVIER
 author: Héloïse
-expirydate: 2023-01-10T23:00:00+00:00
+expirydate: 2023-01-17T23:00:00+00:00
 type: "evenements"
 category: "quizz"
 sommaire: "Venez seul et rencontrez des joueurs !"

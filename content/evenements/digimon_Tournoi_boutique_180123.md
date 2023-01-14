@@ -1,9 +1,9 @@
 ---
 title: "Tournoi Digimon"
-jour: "11"
+jour: "18"
 mois: JANVIER
 author: Héloïse
-expirydate: 2023-01-11T23:00:00+00:00
+expirydate: 2023-01-18T23:00:00+00:00
 type: "evenements"
 category: "digimon"
 sommaire: "Kit de tournoi Volume 6"
