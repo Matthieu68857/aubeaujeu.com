@@ -1,21 +1,21 @@
 ---
-title: "Avant Première Digimon BT7"
-jour: "2"
-mois: MARS
+title: "Avant Première Digimon BT11"
+jour: "10"
+mois: FEVRIER
 author: Héloïse
-expirydate: 2021-10-09T23:00:00+00:00
+expirydate: 2023-02-10T23:00:00+00:00
 type: "evenements"
 category: "digimon"
-sommaire: "Next adventure"
+sommaire: "Dimensional Phaser"
 feature_image: http://aubeaujeu.com/images/evenements/digimon.png
 ---
-### Avant Première Digimon BT07 Next Adventure !
+### Avant Première Digimon BT11 Dimensional Phaser!
 
-Nous organisons une première Digimon BT07 Next Adventure !
+Nous organisons une première Digimon BT11 Dimensional Phaser !
 
 PAF : 35€
 
-Tous les participants vont recevoir 6 boosters de la nouvelle extension Next Adventure (attention, c'est en anglais). Vous devrez les ouvrir et faire un deck avec !
+Tous les participants vont recevoir 6 boosters de la nouvelle extension Dimensional Phaser (attention, c'est en anglais). Vous devrez les ouvrir et faire un deck avec !
 
 Il y aura en plus des cartes promo exclusive à cette avant première pour tous !
 
