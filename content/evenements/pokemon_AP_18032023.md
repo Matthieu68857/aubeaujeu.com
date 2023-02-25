@@ -1,45 +1,49 @@
 ---
 title: "Avant première"
-jour: "19"
-mois: FEVRIER
+jour: "18"
+mois: MARS
 author: Héloïse
-expirydate: 2022-02-19T23:00:00+00:00
+expirydate: 2023-03-18T23:00:00+00:00
 type: "evenements"
 category: "pokemon"
-sommaire: "Avant première Pokemon EB09 Stars Etincelantes !"
+sommaire: "Avant première Pokemon EV01 Ecarlate et Violet !"
 feature_image: https://aubeaujeu.com/images/evenements/pokemon.png
 ---
-### Dresseurs, il est temps de découvrir Stars Etincelantes, la nouvelle extension Pokemon !
+### Dresseurs, il est temps de découvrir Ecarlate et Violet, la nouvelle extension Pokemon !
 
-Attention : pass vaccinal obligatoire pour venir jouer !
+Les tournois d’avant premières Pokemon Ecarlate et Violet auront lieu du 18 au 25 Mars 😃
 
-PAF : 35€ (pour 7 boosters EB09 et 1 carte promo)
+Prix : 36€ la session d’avant première.  
+( pour 7 boosters EV01 et 1 carte promo aléatoire parmi 4)
 
-L'avant première est considérée comme non officielle car Pokemon n'autorise pas les évènements officiels en France.
-Cependant le tournois se passera comme d'habitude, en respectant les gestes barrières 😃
+Comme la dernière fois, on fait un « Pack 4 Avants Premières » valable pour une seule et même personne qui souhaite faire 4 tournois d’avant première :  130€ les 4 AP au lieu de 144€ avec en + 1 booster de ligue offert !  
 
-Plusieurs sessions (vous pouvez vous inscrire à plusieurs) :
+Si vous souhaitez des kits à l’unité, nous faisons une liste d’attente : il sera possible de les acheter si il en reste après le dernier tournois 😃  
 
-Samedi 12 Février (grosse journée à 3 tournois qui peuvent être enchainés pour ceux qui le souhaitent !) :
-- 1er tournoi à 10h30
-- 2ème tournoi à 14h30
-- 3ème tournoi à 19h
+Voici les sessions, n’hésitez pas à nous MP pour réserver vos créneaux :
 
-Jeudi 17 Février :
-- 19h
-
-Samedi 19 Février :
+ Samedi 18 mars : 
 - 10h30
+- 13h30
+- 16h15
+- 19h00 
 
-Les sessions d'avant-première d'Epée et Bouclier du JCC Pokémon permettent aux joueurs de se procurer et de jouer avec des cartes de la nouvelle extension Epée et Bouclier Stars Etincelantes deux semaines avant sa date de sortie officielle.
-Les participants reçoivent une boîte d'avant-première contenant un pack Évolution de 40 cartes (dont 1 carte promo brillante exclusive parmi 4) et 4 boosters EB09 de 10 cartes + 3 boosters EB09 à la fin du tournoi.
+Mercredi 22 mars à 19h
+
+ Jeudi 23 mars : AP spécial Ditto Challenge à 19h
+
+ Samedi 25 mars 
+- 10h30
+- 13h30
+- 16h15
+- 19h00
+
+Les participants reçoivent une boîte d'avant-première contenant un pack Évolution de 40 cartes (dont 1 carte promo brillante exclusive parmi 4) et 4 boosters EV01 de 10 cartes + 3 boosters EV01 à la fin du tournoi.
 
 Il faut se composer un deck de 40 cartes avec. Puis les match se joueront en 4 récompenses.
 
 Pour participer, il faut impérativement connaitre les règles du jeu Pokemon !
 
-PAF : 35€
+Inscription obligatoire au 0627098873 ou en boutique.
 
-Inscription obligatoire par message privé Facebook ou en boutique.
-
-Si nous ne vous répondons pas, c'est que vous vous êtes inscrit au mauvais endroit. Vous devez recevoir une confirmation de notre part, sinon il faut nous renvoyer un message ou venir en boutique
+Si nous ne vous répondons pas, c'est que vous vous êtes inscrit au mauvais endroit. Vous devez recevoir une confirmation de notre part, sinon il faut nous renvoyer un message ou venir en boutique 😃
