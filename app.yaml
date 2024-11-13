@@ -1,4 +1,4 @@
-runtime: php74
+runtime: php82
 instance_class: F1
 # disable automatic scaling to avoid incurring costs
 automatic_scaling:
