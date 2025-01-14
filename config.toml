@@ -4,7 +4,7 @@ title         = "Au Beau Jeu | Boutique & bar à jeux, Lille"
 theme         = "roxo"
 summarylength = 25
 defaultContentLanguage = "fr"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 relativeURLs  = true
 enableEmoji=true
 
