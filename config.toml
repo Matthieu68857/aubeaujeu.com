@@ -29,17 +29,13 @@ enableEmoji=true
     url     = "barajeux/"
     weight  = 2
   [[menu.nav]]
-    name    = "Les événements"
-    url     = "evenements/"
+    name    = "Les tournois TCG"
+    url     = "http://tcg-arena.aubeaujeu.com"
     weight  = 3
-  [[menu.nav]]
-    name    = "Quoi de neuf ?"
-    url     = "blog/"
-    weight  = 4
   [[menu.nav]]
     name    = "Contactez-nous"
     url     = "contact/"
-    weight  = 5
+    weight  = 4
 
 # Site Params
 [params]
