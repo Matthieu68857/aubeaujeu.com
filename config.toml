@@ -133,11 +133,8 @@ enableEmoji=true
           name = "Le bar à jeux"
           url  = "barajeux/"
         [[params.footer.sitemap.link]]
-          name = "Les événements"
-          url  = "evenements/"
-        [[params.footer.sitemap.link]]
-          name = "Quoi de neuf ?"
-          url  = "blog/"
+          name = "Les tournois TCG"
+          url  = "http://tcg-arena.aubeaujeu.com"
         [[params.footer.sitemap.link]]
           name = "Contactez-nous"
           url  = "contact/"
