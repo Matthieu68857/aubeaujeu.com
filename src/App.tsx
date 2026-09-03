@@ -1,4 +1,5 @@
 import { Hero } from './components/Hero';
+import { Boutique } from './components/Boutique';
 
 export default function App() {
   return (
@@ -9,6 +10,7 @@ export default function App() {
 
       <main className="flex-1">
         <Hero />
+        <Boutique />
       </main>
     </div>
   );
