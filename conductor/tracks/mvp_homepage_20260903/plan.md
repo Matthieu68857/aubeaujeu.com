@@ -21,14 +21,14 @@
 - [x] Task: Phase Verification & Checkpoint (Refer to workflow.md)
 
 ### Phase 3 : Section "La Boutique" & Galerie Photos (TDD)
-- [ ] Task: Tests unitaires de la section Boutique
-  - [ ] Écrire les tests pour l'affichage de l'histoire des 9 ans et la structure de la galerie
-  - [ ] Valider l'échec initial des tests (Red Phase)
-- [ ] Task: Implémentation de la section Boutique et carrousel/grille photo
-  - [ ] Développer la section avec le texte identitaire lillois
-  - [ ] Implémenter la galerie responsive utilisant les photos réelles (`old_photos/boutique/`)
-  - [ ] Valider le passage au vert des tests (Green Phase)
-- [ ] Task: Phase Verification & Checkpoint (Refer to workflow.md)
+- [x] Task: Tests unitaires de la section Boutique (2b58fca)
+  - [x] Écrire les tests pour l'affichage de l'histoire des 9 ans et la structure de la galerie
+  - [x] Valider l'échec initial des tests (Red Phase)
+- [x] Task: Implémentation de la section Boutique et carrousel/grille photo (2b58fca)
+  - [x] Développer la section avec le texte identitaire lillois
+  - [x] Implémenter la galerie responsive utilisant les photos réelles (`old_photos/boutique/`)
+  - [x] Valider le passage au vert des tests (Green Phase)
+- [x] Task: Phase Verification & Checkpoint (Refer to workflow.md)
 
 ### Phase 4 : Section "Le Bar à jeux" & Slider de la Carte du Bar (TDD)
 - [ ] Task: Tests unitaires du bar et du slider de menu
