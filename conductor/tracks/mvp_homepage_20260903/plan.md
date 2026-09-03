@@ -12,13 +12,13 @@
 - [x] Task: Tests unitaires du calcul des horaires et du statut d'ouverture (8022a4f)
   - [x] Écrire les tests pour la logique de statut ("Ouvert en ce moment / Fermé") basée sur l'heure de Lille
   - [x] Valider l'échec initial des tests (Red Phase)
-- [ ] Task: Implémentation de la logique d'horaires et composant Hero
-  - [ ] Développer l'utilitaire de calcul des horaires
-  - [ ] Implémenter le composant Hero avec logo officiel, mascotte OBO animée et badge de statut
-  - [ ] Intégrer les 3 boutons CTAs (La Boutique, Le Bar à jeux, Le TCG sortant)
-  - [ ] Intégrer le modal interactif de réservation de table Zenchef
-  - [ ] Valider le passage au vert des tests (Green Phase)
-- [ ] Task: Phase Verification & Checkpoint (Refer to workflow.md)
+- [x] Task: Implémentation de la logique d'horaires et composant Hero (934259a)
+  - [x] Développer l'utilitaire de calcul des horaires
+  - [x] Implémenter le composant Hero avec logo officiel, mascotte OBO animée et badge de statut
+  - [x] Intégrer les 3 boutons CTAs (La Boutique, Le Bar à jeux, Le TCG sortant)
+  - [x] Intégrer le modal interactif de réservation de table Zenchef
+  - [x] Valider le passage au vert des tests (Green Phase)
+- [x] Task: Phase Verification & Checkpoint (Refer to workflow.md)
 
 ### Phase 3 : Section "La Boutique" & Galerie Photos (TDD)
 - [ ] Task: Tests unitaires de la section Boutique
