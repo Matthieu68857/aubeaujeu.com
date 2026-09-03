@@ -9,9 +9,9 @@
 - [x] Task: Phase Verification & Checkpoint (Refer to workflow.md)
 
 ### Phase 2 : Section Hero & Horaires Dynamiques (TDD)
-- [ ] Task: Tests unitaires du calcul des horaires et du statut d'ouverture
-  - [ ] Écrire les tests pour la logique de statut ("Ouvert en ce moment / Fermé") basée sur l'heure de Lille
-  - [ ] Valider l'échec initial des tests (Red Phase)
+- [x] Task: Tests unitaires du calcul des horaires et du statut d'ouverture (8022a4f)
+  - [x] Écrire les tests pour la logique de statut ("Ouvert en ce moment / Fermé") basée sur l'heure de Lille
+  - [x] Valider l'échec initial des tests (Red Phase)
 - [ ] Task: Implémentation de la logique d'horaires et composant Hero
   - [ ] Développer l'utilitaire de calcul des horaires
   - [ ] Implémenter le composant Hero avec logo officiel, mascotte OBO animée et badge de statut
