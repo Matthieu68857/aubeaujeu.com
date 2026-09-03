@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-primary: #88C4B9;
+    --color-secondary: #D994B6;
+    --color-blue: #79B4D9;
+    --color-mauve: #CF7A86;
+    --color-yellow: #F9CE8C;
+    --color-cream: #F6F6F2;
+    --color-dark: #333333;
+    --ease-out-dynamic: cubic-bezier(0.23, 1, 0.32, 1);
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer utilities {
+  /* Emil Kowalski active feedback */
+  .btn-pressable {
+    transition: transform 160ms cubic-bezier(0.23, 1, 0.32, 1), box-shadow 160ms cubic-bezier(0.23, 1, 0.32, 1);
+  }
+  
+  .btn-pressable:active {
+    transform: scale(0.97);
+  }
+
+  /* Safe hover guarded for fine pointers */
+  @media (hover: hover) and (pointer: fine) {
+    .hover-lift:hover {
+      transform: translateY(-2px);
+    }
+  }
+
+  /* Reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    *, ::before, ::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
