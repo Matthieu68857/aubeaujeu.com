@@ -1,5 +1,8 @@
 import { Hero } from './components/Hero';
 import { Boutique } from './components/Boutique';
+import { Bar } from './components/Bar';
+import { Footer } from './components/Footer';
+import { MobileQuickBar } from './components/MobileQuickBar';
 
 export default function App() {
   return (
@@ -11,7 +14,11 @@ export default function App() {
       <main className="flex-1">
         <Hero />
         <Boutique />
+        <Bar />
       </main>
+
+      <Footer />
+      <MobileQuickBar />
     </div>
   );
 }
