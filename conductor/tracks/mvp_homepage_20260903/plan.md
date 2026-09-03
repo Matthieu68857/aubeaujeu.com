@@ -43,10 +43,10 @@
 - [x] Task: Phase Verification & Checkpoint (Refer to workflow.md)
 
 ### Phase 5 : Polissage UI/UX, Accessibilité & Build Final
-- [ ] Task: Revue des micro-animations et conformité design
-  - [ ] Vérifier les retours tactiles `:active` scale 0.97, durées < 250ms et support `prefers-reduced-motion`
-  - [ ] Valider les contrastes WCAG AAA et les cibles tactiles >= 48px
-- [ ] Task: Build de production et tests de non-régression
-  - [ ] Exécuter la suite complète de tests Vitest
-  - [ ] Valider le build de production Vite sans erreur
-- [ ] Task: Phase Verification & Checkpoint (Refer to workflow.md)
+- [x] Task: Revue des micro-animations et conformité design (4cd8639)
+  - [x] Vérifier les retours tactiles `:active` scale 0.97, durées < 250ms et support `prefers-reduced-motion`
+  - [x] Valider les contrastes WCAG AAA et les cibles tactiles >= 48px
+- [x] Task: Build de production et tests de non-régression (4cd8639)
+  - [x] Exécuter la suite complète de tests Vitest
+  - [x] Valider le build de production Vite sans erreur
+- [x] Task: Phase Verification & Checkpoint (Refer to workflow.md)
