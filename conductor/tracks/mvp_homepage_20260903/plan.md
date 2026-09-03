@@ -31,16 +31,16 @@
 - [x] Task: Phase Verification & Checkpoint (Refer to workflow.md)
 
 ### Phase 4 : Section "Le Bar à jeux" & Slider de la Carte du Bar (TDD)
-- [ ] Task: Tests unitaires du bar et du slider de menu
-  - [ ] Écrire les tests pour la ludothèque (+600 jeux), les états du slider et l'action de téléchargement PDF
-  - [ ] Valider l'échec initial des tests (Red Phase)
-- [ ] Task: Implémentation de la ludothèque et du slider interactif de menu
-  - [ ] Développer la présentation des 600+ jeux avec galerie d'ambiance (`old_photos/bar/`)
-  - [ ] Développer le slider tactile gestuel (swipe, pagination, plein écran) avec les 4 planches (`assets/carte/`)
-  - [ ] Ajouter la fonctionnalité de téléchargement direct du menu en PDF (format pratique mobile)
-  - [ ] Intégrer la barre d'accès rapide mobile au pouce
-  - [ ] Valider le passage au vert des tests (Green Phase)
-- [ ] Task: Phase Verification & Checkpoint (Refer to workflow.md)
+- [x] Task: Tests unitaires du bar et du slider de menu (bf19bbc)
+  - [x] Écrire les tests pour la ludothèque (+600 jeux), les états du slider et l'action de téléchargement PDF
+  - [x] Valider l'échec initial des tests (Red Phase)
+- [x] Task: Implémentation de la ludothèque et du slider interactif de menu (bf19bbc)
+  - [x] Développer la présentation des 600+ jeux avec galerie d'ambiance (`old_photos/bar/`)
+  - [x] Développer le slider tactile gestuel (swipe, pagination, plein écran) avec les 4 planches (`assets/carte/`)
+  - [x] Ajouter la fonctionnalité de téléchargement direct du menu en PDF (format pratique mobile)
+  - [x] Intégrer la barre d'accès rapide mobile au pouce
+  - [x] Valider le passage au vert des tests (Green Phase)
+- [x] Task: Phase Verification & Checkpoint (Refer to workflow.md)
 
 ### Phase 5 : Polissage UI/UX, Accessibilité & Build Final
 - [ ] Task: Revue des micro-animations et conformité design
