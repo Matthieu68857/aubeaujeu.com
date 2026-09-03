@@ -6,7 +6,7 @@
   - [x] Installer les dépendances : Tailwind CSS, Lucide React, Framer Motion, Vitest, Testing Library
   - [x] Configurer les tokens de la charte graphique ABJ dans Tailwind CSS et les polices Google Fonts
   - [x] Structurer les assets publics (`assets/`, `assets/carte/`, `old_photos/`)
-- [ ] Task: Phase Verification & Checkpoint (Refer to workflow.md)
+- [x] Task: Phase Verification & Checkpoint (Refer to workflow.md)
 
 ### Phase 2 : Section Hero & Horaires Dynamiques (TDD)
 - [ ] Task: Tests unitaires du calcul des horaires et du statut d'ouverture
