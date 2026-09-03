@@ -1,11 +1,11 @@
 # Plan d'Implémentation : MVP Vitrine Web "Au Beau Jeu" (SPA)
 
 ### Phase 1 : Initialisation du Projet & Fondations
-- [ ] Task: Scaffolding du projet Vite + React + TypeScript
-  - [ ] Initialiser le projet avec Vite en mode React + TS
-  - [ ] Installer les dépendances : Tailwind CSS, Lucide React, Framer Motion, Vitest, Testing Library
-  - [ ] Configurer les tokens de la charte graphique ABJ dans Tailwind CSS et les polices Google Fonts
-  - [ ] Structurer les assets publics (`assets/`, `assets/carte/`, `old_photos/`)
+- [x] Task: Scaffolding du projet Vite + React + TypeScript (63d4d7e)
+  - [x] Initialiser le projet avec Vite en mode React + TS
+  - [x] Installer les dépendances : Tailwind CSS, Lucide React, Framer Motion, Vitest, Testing Library
+  - [x] Configurer les tokens de la charte graphique ABJ dans Tailwind CSS et les polices Google Fonts
+  - [x] Structurer les assets publics (`assets/`, `assets/carte/`, `old_photos/`)
 - [ ] Task: Phase Verification & Checkpoint (Refer to workflow.md)
 
 ### Phase 2 : Section Hero & Horaires Dynamiques (TDD)
