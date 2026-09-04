@@ -23,10 +23,10 @@
 ## Phase 3 : Section Dédiée "TCG & Tournois"
 - [x] Task: Écrire les tests unitaires pour la section TCG (70443b4)
   - [x] Vérifier la présence de l'ancre `#tcg`, des badges d'univers (Pokémon, Lorcana, Magic, One Piece, SWU) et du lien sécurisé vers TCG Arena
-- [~] Task: Implémenter le composant `TcgSection.tsx`
-  - [ ] Rédiger le contenu clair et chaleureux présentant le rôle d'ABJ dans la scène TCG lilloise
-  - [ ] Créer les badges illustrés/stylisés des jeux de cartes
-  - [ ] Ajouter le bouton d'action CTA vers `https://tcg-arena.aubeaujeu.com/` (ouverture nouvel onglet sécurisé)
+- [x] Task: Implémenter le composant `TcgSection.tsx` (fba93c9)
+  - [x] Rédiger le contenu clair et chaleureux présentant le rôle d'ABJ dans la scène TCG lilloise
+  - [x] Créer les badges illustrés/stylisés des jeux de cartes
+  - [x] Ajouter le bouton d'action CTA vers `https://tcg-arena.aubeaujeu.com/` (ouverture nouvel onglet sécurisé)
 - [ ] Task: Phase Verification & Checkpoint (Refer to workflow.md)
 
 ## Phase 4 : Transitions Organiques, Animations & Mascotte OBO
