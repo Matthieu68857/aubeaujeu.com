@@ -66,3 +66,4 @@ L'ambiance générale évoque un retour en enfance chaleureux, convivial et ludi
    - **Slider interactif de la Carte du Bar :** Affichage optimisé des 4 pages issues de `assets/carte/` (`PAGE 1.png`, `PAGE 1 verso.png`, `PAGE 2.png`, `PAGE 2 verso.png`).
    - Gestuelle tactile fluide (swipe horizontal avec détection de vélocité), pagination claire par indicateurs, zoom/plein écran au clic.
    - Bouton d'action directe pour télécharger la carte en PDF.
+

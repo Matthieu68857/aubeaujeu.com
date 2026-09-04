@@ -22,3 +22,4 @@ Au Beau Jeu (ABJ) est une Single-Page Application (SPA) responsive, épurée et 
   - Identité & mascottes : `assets/` (`logo_horizontal.png`, `logo_vertical.png`, `obo1.png`, `obo2.png`, `obo3.png`, `colors.png`, `frontpage_wip.png`).
   - Photos réelles : `old_photos/boutique/` et `old_photos/bar/`.
   - Nouvelle carte du bar : `assets/carte/` (`PAGE 1.png`, `PAGE 1 verso.png`, `PAGE 2.png`, `PAGE 2 verso.png`).
+

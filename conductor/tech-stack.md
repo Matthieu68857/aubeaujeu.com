@@ -25,3 +25,4 @@
 ## 4. Qualité de Code & Tests
 - **Tests Unitaires / Intégration :** Vitest + React Testing Library
 - **Linting & Formatage :** ESLint + Prettier
+

@@ -65,3 +65,4 @@ Ce projet est une Single-Page Application (SPA) stricte, épurée, responsive, p
 - Création de pages secondaires ou sous-routes (SPA stricte).
 - Système de panier e-commerce ou paiement en ligne.
 - Gestion d'authentification utilisateur ou comptes clients.
+
