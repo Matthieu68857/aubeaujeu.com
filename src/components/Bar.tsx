@@ -1,40 +1,17 @@
 import React, { useState, useRef } from 'react';
-import { ChevronLeft, ChevronRight, Download, Maximize2, X, Beer, BookOpen, Layers } from 'lucide-react';
+import { ChevronLeft, ChevronRight, Maximize2, Download, BookOpen, Layers, X, Loader2 } from 'lucide-react';
 import jsPDF from 'jspdf';
 
-const CARTE_PAGES = [
+const BAR_PHOTOS = [
   {
-    src: '/assets/carte/PAGE 1.png',
-    title: 'Page 1 — Boissons & Spécialités',
-    shortTitle: 'Page 1',
+    src: '/old_photos/bar/1.jpg',
+    title: 'Ambiance chaleureuse',
+    subtitle: 'Tables spacieuses et assises confortables',
   },
   {
-    src: '/assets/carte/PAGE 1 verso.png',
-    title: 'Page 1 Verso — Bières & Vins',
-    shortTitle: 'Page 1 Verso',
-  },
-  {
-    src: '/assets/carte/PAGE 2.png',
-    title: 'Page 2 — Snacks, Planches & Douceurs',
-    shortTitle: 'Page 2',
-  },
-  {
-    src: '/assets/carte/PAGE 2 verso.png',
-    title: 'Page 2 Verso — Formules & Ludothèque',
-    shortTitle: 'Page 2 Verso',
-  },
-];
-
-const BAR_AMBIANCE_PHOTOS = [
-  {
-    src: '/old_photos/bar/1 (2).jpg',
-    title: 'Soirées jeux animées',
-    subtitle: 'Ambiance conviviale et rires garantis',
-  },
-  {
-    src: '/old_photos/bar/2 (2).jpg',
-    title: 'Tables spacieuses & bières locales',
-    subtitle: 'Tout pour jouer confortablement entre amis',
+    src: '/old_photos/bar/2.jpg',
+    title: 'Boissons locales & snacks',
+    subtitle: 'Bières artisanales, jus bio et gourmandises',
   },
   {
     src: '/old_photos/bar/3 (1).jpg',
@@ -43,12 +20,35 @@ const BAR_AMBIANCE_PHOTOS = [
   },
 ];
 
+const CARTE_PAGES = [
+  {
+    src: '/assets/carte/PAGE 1.png',
+    title: 'Menu - Boissons Chaudes & Fraîches',
+    shortTitle: 'Page 1',
+  },
+  {
+    src: '/assets/carte/PAGE 1 verso.png',
+    title: 'Menu - Bières Pression & Bouteilles',
+    shortTitle: 'Page 1 Verso',
+  },
+  {
+    src: '/assets/carte/PAGE 2.png',
+    title: 'Menu - Vins, Cidres & Planches',
+    shortTitle: 'Page 2',
+  },
+  {
+    src: '/assets/carte/PAGE 2 verso.png',
+    title: 'Menu - Snacks, Desserts & Formules',
+    shortTitle: 'Page 2 Verso',
+  },
+];
+
 export const Bar: React.FC = () => {
   const [currentCarteIndex, setCurrentCarteIndex] = useState(0);
   const [isFullscreen, setIsFullscreen] = useState(false);
   const [isGeneratingPdf, setIsGeneratingPdf] = useState(false);
 
-  // Touch swipe support with velocity detection (Emil Kowalski guidelines)
+  // Touch swipe support with velocity detection
   const touchStartX = useRef<number | null>(null);
   const touchStartTime = useRef<number | null>(null);
 
@@ -67,141 +67,148 @@ export const Bar: React.FC = () => {
 
   const handleTouchEnd = (e: React.TouchEvent) => {
     if (touchStartX.current === null || touchStartTime.current === null) return;
-    const touchEndX = e.changedTouches[0].clientX;
-    const distance = touchStartX.current - touchEndX;
-    const timeElapsed = Date.now() - touchStartTime.current;
-    const velocity = Math.abs(distance) / timeElapsed;
 
-    if (Math.abs(distance) > 40 || velocity > 0.15) {
-      if (distance > 0) {
+    const touchEndX = e.changedTouches[0].clientX;
+    const diffX = touchStartX.current - touchEndX;
+    const diffTime = Date.now() - touchStartTime.current;
+
+    if (Math.abs(diffX) > 50 && diffTime < 400) {
+      if (diffX > 0) {
         nextCarte();
       } else {
         prevCarte();
       }
     }
+
     touchStartX.current = null;
     touchStartTime.current = null;
   };
 
-  // Generate multi-page PDF combining all 4 carte pages
-  const handleDownloadPdf = async () => {
+  // High quality PDF generation
+  const downloadCartePdf = async () => {
     try {
       setIsGeneratingPdf(true);
       const pdf = new jsPDF({
         orientation: 'portrait',
-        unit: 'px',
-        format: [800, 1130],
+        unit: 'mm',
+        format: 'a4',
       });
 
       for (let i = 0; i < CARTE_PAGES.length; i++) {
-        if (i > 0) pdf.addPage([800, 1130], 'portrait');
-        
-        // Load image as HTMLImageElement
-        await new Promise<void>((resolve) => {
-          const img = new Image();
-          img.crossOrigin = 'anonymous';
-          img.onload = () => {
-            pdf.addImage(img, 'PNG', 0, 0, 800, 1130);
-            resolve();
-          };
-          img.onerror = () => resolve(); // fallback gracefully
-          img.src = CARTE_PAGES[i].src;
+        const page = CARTE_PAGES[i];
+        if (i > 0) pdf.addPage();
+
+        const img = new Image();
+        img.src = page.src;
+        await new Promise((resolve) => {
+          img.onload = resolve;
         });
+
+        pdf.addImage(img, 'PNG', 0, 0, 210, 297, undefined, 'FAST');
       }
 
-      pdf.save('Au-Beau-Jeu-Menu-Bar.pdf');
+      pdf.save('Au-Beau-Jeu-Carte-du-Bar.pdf');
     } catch (err) {
-      console.error('PDF generation error:', err);
-      // Fallback: open current image directly
-      window.open(CARTE_PAGES[currentCarteIndex].src, '_blank');
+      console.error('Erreur lors du téléchargement du PDF de la carte', err);
     } finally {
       setIsGeneratingPdf(false);
     }
   };
 
   return (
-    <section id="bar" className="py-16 md:py-24 bg-gradient-to-b from-[#fbfbf8] via-abj-cream to-[#f7f7f3] border-b border-abj-primary/10 relative overflow-hidden">
+    <section id="bar" className="py-16 md:py-24 bg-[#fbfbf8] relative overflow-hidden text-abj-dark">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Section Header */}
         <div className="text-center max-w-3xl mx-auto mb-12 sm:mb-16">
-          <div className="inline-flex items-center space-x-2 px-4 py-1.5 rounded-full bg-abj-blue/20 text-abj-dark font-bold text-xs sm:text-sm border border-abj-blue/40 mb-4">
-            <BookOpen className="w-4 h-4 text-abj-blue" />
+          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-abj-blue text-white font-black text-xs sm:text-sm border-2 border-abj-dark shadow-abj-tactile mb-4">
+            <BookOpen className="w-4 h-4" />
             <span>Plus de 600 jeux disponibles</span>
           </div>
-          <h2 className="text-3xl sm:text-4xl md:text-5xl font-extrabold text-abj-dark tracking-tight">
+          <h2 className="text-3xl sm:text-4xl md:text-5xl font-black text-abj-dark tracking-tight">
             Le Bar à Jeux & Sa Ludothèque
           </h2>
-          <p className="mt-4 text-base sm:text-lg text-abj-dark/80 leading-relaxed">
-            Installez-vous à une table, commandez une bonne bière locale ou une boisson artisanale, et laissez-vous tenter par notre collection de plus de <strong>600 jeux de société</strong>. Nos animateurs passionnés sont là pour vous expliquer les règles !
+          <p className="mt-4 text-base sm:text-lg text-abj-dark/85 leading-relaxed font-medium">
+            Installez-vous à une table, commandez une bonne bière locale ou une boisson artisanale, et laissez-vous tenter par notre collection de plus de <strong>600 jeux en libre accès</strong>. Nos animateurs passionnés sont là pour vous expliquer les règles !
           </p>
         </div>
 
-        {/* Ambiance Photos Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 sm:gap-6 mb-16">
-          {BAR_AMBIANCE_PHOTOS.map((item, idx) => (
+        {/* Real Photos Grid */}
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-16">
+          {BAR_PHOTOS.map((photo, idx) => (
             <div
               key={idx}
-              className="relative rounded-3xl overflow-hidden shadow-abj-soft border border-abj-primary/15 group aspect-[4/3] bg-white"
+              className="group relative rounded-2xl overflow-hidden border-2 border-abj-dark bg-white shadow-abj-tactile hover:shadow-abj-tactile-lg transform hover:-translate-y-1 transition-all"
             >
-              <img
-                src={item.src}
-                alt={item.title}
-                className="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-300"
-              />
-              <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-transparent to-transparent pointer-events-none" />
-              <div className="absolute bottom-3 left-4 right-4 text-white">
-                <h3 className="font-bold text-base sm:text-lg leading-tight">{item.title}</h3>
-                <p className="text-xs text-white/80 mt-0.5">{item.subtitle}</p>
+              <div className="aspect-[4/3] overflow-hidden">
+                <img
+                  src={photo.src}
+                  alt={photo.title}
+                  className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                />
+              </div>
+              <div className="p-4 bg-white border-t-2 border-abj-dark">
+                <h3 className="font-extrabold text-base text-abj-dark">{photo.title}</h3>
+                <p className="text-xs sm:text-sm text-abj-dark/75 mt-0.5 font-medium">{photo.subtitle}</p>
               </div>
             </div>
           ))}
         </div>
 
-        {/* Interactive Menu Slider Section */}
-        <div className="bg-white rounded-3xl p-6 sm:p-8 lg:p-10 shadow-abj-soft border border-abj-blue/20">
-          
-          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-6 border-b border-gray-100 mb-6">
-            <div>
-              <div className="flex items-center space-x-2">
-                <Beer className="w-6 h-6 text-abj-blue" />
-                <h3 className="text-2xl font-bold text-abj-dark">La Carte du Bar</h3>
+        {/* Interactive Menu Viewer */}
+        <div className="bg-white rounded-3xl border-2 border-abj-dark shadow-abj-tactile-lg p-6 sm:p-8 relative">
+          <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pb-6 mb-6 border-b-2 border-abj-dark/15">
+            <div className="flex items-center gap-3">
+              <div className="w-12 h-12 rounded-2xl bg-abj-blue text-white flex items-center justify-center border-2 border-abj-dark shadow-xs">
+                <BookOpen className="w-6 h-6 text-abj-dark" />
               </div>
-              <p className="text-sm text-abj-dark/70 mt-1">
-                Feuilletez les 4 pages de notre carte des boissons et snacks.
-              </p>
+              <div>
+                <h3 className="text-xl sm:text-2xl font-black text-abj-dark">
+                  La Carte du Bar
+                </h3>
+                <p className="text-xs sm:text-sm text-abj-dark/75 font-medium">
+                  Feuilletez les 4 pages de notre carte : boissons, bières et douceurs
+                </p>
+              </div>
             </div>
 
-            {/* Actions: Fullscreen & Download PDF */}
-            <div className="flex items-center space-x-3">
+            {/* Action Buttons: Fullscreen & PDF */}
+            <div className="flex items-center gap-2.5 w-full sm:w-auto">
               <button
                 onClick={() => setIsFullscreen(true)}
-                className="flex items-center space-x-2 px-4 py-2.5 rounded-xl bg-abj-cream hover:bg-abj-cream/80 text-abj-dark font-medium text-xs sm:text-sm border border-abj-primary/20 transition-all btn-pressable min-h-[44px]"
-                aria-label="Plein écran"
+                className="flex-1 sm:flex-initial inline-flex items-center justify-center gap-2 px-4 py-2.5 rounded-xl border-2 border-abj-dark bg-white hover:bg-abj-cream text-abj-dark text-xs sm:text-sm font-extrabold shadow-abj-tactile hover:shadow-abj-tactile-lg transition-all btn-pressable min-h-[44px]"
               >
-                <Maximize2 className="w-4 h-4 text-abj-dark" />
-                <span className="hidden sm:inline">Plein écran</span>
+                <Maximize2 className="w-4 h-4" />
+                <span>Plein écran</span>
               </button>
 
               <button
-                onClick={handleDownloadPdf}
+                onClick={downloadCartePdf}
                 disabled={isGeneratingPdf}
-                className="flex items-center space-x-2 px-5 py-2.5 rounded-xl bg-abj-primary hover:bg-[#72b5a9] text-abj-dark font-bold text-xs sm:text-sm shadow-md transition-all btn-pressable min-h-[44px]"
                 aria-label="Télécharger le menu en PDF"
+                className="flex-1 sm:flex-initial inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-xl bg-abj-primary hover:bg-[#72b0a5] text-abj-dark text-xs sm:text-sm font-black border-2 border-abj-dark shadow-abj-tactile hover:shadow-abj-tactile-lg transition-all btn-pressable min-h-[44px] disabled:opacity-50"
               >
-                <Download className="w-4 h-4" />
-                <span>{isGeneratingPdf ? 'Génération...' : 'Télécharger le menu en PDF'}</span>
+                {isGeneratingPdf ? (
+                  <>
+                    <Loader2 className="w-4 h-4 animate-spin" />
+                    <span>Création du PDF...</span>
+                  </>
+                ) : (
+                  <>
+                    <Download className="w-4 h-4" />
+                    <span>Télécharger le PDF</span>
+                  </>
+                )}
               </button>
             </div>
           </div>
 
-          {/* Slider Container */}
+          {/* Touch Slider Viewport */}
           <div className="relative max-w-2xl mx-auto">
-            
             <div
               onTouchStart={handleTouchStart}
               onTouchEnd={handleTouchEnd}
-              className="relative rounded-2xl overflow-hidden bg-abj-cream/50 border border-abj-primary/15 shadow-inner cursor-grab active:cursor-grabbing select-none"
+              className="relative rounded-2xl overflow-hidden bg-abj-cream/60 border-2 border-abj-dark shadow-inner cursor-grab active:cursor-grabbing select-none"
             >
               <img
                 src={CARTE_PAGES[currentCarteIndex].src}
@@ -210,7 +217,7 @@ export const Bar: React.FC = () => {
               />
 
               {/* Page title badge */}
-              <div className="absolute top-4 left-4 bg-abj-dark/70 backdrop-blur-md text-white px-3 py-1 rounded-full text-xs font-semibold flex items-center space-x-1.5">
+              <div className="absolute top-4 left-4 bg-abj-dark text-white px-3.5 py-1 rounded-full text-xs font-bold flex items-center gap-1.5 border border-white/20">
                 <Layers className="w-3.5 h-3.5 text-abj-yellow" />
                 <span>{CARTE_PAGES[currentCarteIndex].shortTitle} ({currentCarteIndex + 1}/4)</span>
               </div>
@@ -220,7 +227,7 @@ export const Bar: React.FC = () => {
             <button
               onClick={prevCarte}
               aria-label="Page précédente"
-              className="absolute top-1/2 -translate-y-1/2 -left-4 sm:-left-6 p-3 rounded-full bg-white text-abj-dark shadow-xl border border-abj-primary/30 hover:bg-abj-cream transition-all btn-pressable min-w-[48px] min-h-[48px] flex items-center justify-center z-10"
+              className="absolute top-1/2 -translate-y-1/2 -left-4 sm:-left-6 p-3 rounded-full bg-white text-abj-dark shadow-abj-tactile border-2 border-abj-dark hover:bg-abj-yellow transition-all btn-pressable min-w-[48px] min-h-[48px] flex items-center justify-center z-10 transform hover:scale-105"
             >
               <ChevronLeft className="w-6 h-6 text-abj-dark" />
             </button>
@@ -228,7 +235,7 @@ export const Bar: React.FC = () => {
             <button
               onClick={nextCarte}
               aria-label="Page suivante"
-              className="absolute top-1/2 -translate-y-1/2 -right-4 sm:-right-6 p-3 rounded-full bg-white text-abj-dark shadow-xl border border-abj-primary/30 hover:bg-abj-cream transition-all btn-pressable min-w-[48px] min-h-[48px] flex items-center justify-center z-10"
+              className="absolute top-1/2 -translate-y-1/2 -right-4 sm:-right-6 p-3 rounded-full bg-white text-abj-dark shadow-abj-tactile border-2 border-abj-dark hover:bg-abj-yellow transition-all btn-pressable min-w-[48px] min-h-[48px] flex items-center justify-center z-10 transform hover:scale-105"
             >
               <ChevronRight className="w-6 h-6 text-abj-dark" />
             </button>
@@ -239,10 +246,10 @@ export const Bar: React.FC = () => {
                 <button
                   key={idx}
                   onClick={() => setCurrentCarteIndex(idx)}
-                  className={`p-2.5 sm:p-3 rounded-xl text-center text-xs font-bold transition-all btn-pressable border min-h-[44px] flex flex-col items-center justify-center ${
+                  className={`p-2.5 sm:p-3 rounded-xl text-center text-xs font-black transition-all btn-pressable border-2 border-abj-dark min-h-[44px] flex flex-col items-center justify-center ${
                     idx === currentCarteIndex
-                      ? 'bg-abj-primary text-abj-dark border-abj-primary shadow-sm ring-2 ring-abj-primary/30'
-                      : 'bg-abj-cream/80 text-abj-dark/70 border-abj-primary/15 hover:bg-white'
+                      ? 'bg-abj-primary text-abj-dark shadow-abj-tactile -translate-y-0.5'
+                      : 'bg-abj-cream/80 text-abj-dark/75 hover:bg-white'
                   }`}
                 >
                   <span className="truncate w-full">{page.shortTitle}</span>
@@ -250,12 +257,10 @@ export const Bar: React.FC = () => {
               ))}
             </div>
 
-            <p className="text-center text-xs text-abj-dark/60 mt-3 sm:hidden">
+            <p className="text-center text-xs text-abj-dark/70 font-medium mt-3 sm:hidden">
               💡 Glissez avec le doigt (swipe) pour tourner les pages de la carte
             </p>
-
           </div>
-
         </div>
 
       </div>
@@ -280,7 +285,7 @@ export const Bar: React.FC = () => {
             <img
               src={CARTE_PAGES[currentCarteIndex].src}
               alt={CARTE_PAGES[currentCarteIndex].title}
-              className="max-h-[85vh] w-auto object-contain rounded-xl shadow-2xl"
+              className="max-h-[85vh] w-auto object-contain rounded-2xl shadow-2xl border-2 border-white/20"
               onClick={(e) => e.stopPropagation()}
             />
 
@@ -293,7 +298,7 @@ export const Bar: React.FC = () => {
               >
                 <ChevronLeft className="w-6 h-6" />
               </button>
-              <span className="text-white text-sm font-semibold">
+              <span className="text-white text-sm font-bold">
                 {currentCarteIndex + 1} / {CARTE_PAGES.length}
               </span>
               <button
