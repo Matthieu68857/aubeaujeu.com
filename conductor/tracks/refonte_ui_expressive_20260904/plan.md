@@ -21,9 +21,9 @@
 - [x] Task: Phase Verification & Checkpoint (Refer to workflow.md) (105c969)
 
 ## Phase 3 : Section Dédiée "TCG & Tournois"
-- [ ] Task: Écrire les tests unitaires pour la section TCG
-  - [ ] Vérifier la présence de l'ancre `#tcg`, des badges d'univers (Pokémon, Lorcana, Magic, One Piece, SWU) et du lien sécurisé vers TCG Arena
-- [ ] Task: Implémenter le composant `TcgSection.tsx`
+- [x] Task: Écrire les tests unitaires pour la section TCG (70443b4)
+  - [x] Vérifier la présence de l'ancre `#tcg`, des badges d'univers (Pokémon, Lorcana, Magic, One Piece, SWU) et du lien sécurisé vers TCG Arena
+- [~] Task: Implémenter le composant `TcgSection.tsx`
   - [ ] Rédiger le contenu clair et chaleureux présentant le rôle d'ABJ dans la scène TCG lilloise
   - [ ] Créer les badges illustrés/stylisés des jeux de cartes
   - [ ] Ajouter le bouton d'action CTA vers `https://tcg-arena.aubeaujeu.com/` (ouverture nouvel onglet sécurisé)
