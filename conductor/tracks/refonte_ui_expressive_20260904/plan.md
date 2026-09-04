@@ -18,7 +18,7 @@
   - [x] Centrer et agrandir le logo multicolore "Au Beau Jeu"
   - [x] Intégrer les blobs d'arrière-plan animés aux couleurs officielles
   - [x] Positionner les 3 boutons d'accès rapide tactiles (La Boutique `#boutique`, Le Bar `#bar`, Le TCG `#tcg`)
-- [ ] Task: Phase Verification & Checkpoint (Refer to workflow.md)
+- [x] Task: Phase Verification & Checkpoint (Refer to workflow.md) (105c969)
 
 ## Phase 3 : Section Dédiée "TCG & Tournois"
 - [ ] Task: Écrire les tests unitaires pour la section TCG
