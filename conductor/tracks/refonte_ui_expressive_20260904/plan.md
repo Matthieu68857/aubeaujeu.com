@@ -30,9 +30,9 @@
 - [x] Task: Phase Verification & Checkpoint (Refer to workflow.md) (ea5d2ed)
 
 ## Phase 4 : Transitions Organiques, Animations & Mascotte OBO
-- [ ] Task: Insertion des vagues de transition entre l'ensemble des sections
-  - [ ] Connecter Hero -> Boutique -> Bar -> TCG -> Footer avec alternance harmonieuse des couleurs
-- [ ] Task: Dynamisation par micro-animations (Framer Motion)
+- [x] Task: Insertion des vagues de transition entre l'ensemble des sections (8513c3a)
+  - [x] Connecter Hero -> Boutique -> Bar -> TCG -> Footer avec alternance harmonieuse des couleurs
+- [~] Task: Dynamisation par micro-animations (Framer Motion)
   - [ ] Ajouter les effets d'apparition échelonnée (stagger) à l'entrée dans le viewport
   - [ ] Mettre en scène la mascotte OBO sous forme de stickers flottants et interactifs
   - [ ] Styliser les cartes Boutique et Bar avec des bordures et ombres tactiles chaleureuses
