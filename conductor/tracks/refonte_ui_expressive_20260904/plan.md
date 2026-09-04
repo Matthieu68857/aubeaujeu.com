@@ -46,4 +46,4 @@
   - [x] Vérifier la couverture de code (>80%)
 - [x] Task: Contrôle de la fluidité et du rendu responsive (deb960a)
   - [x] Vérification sur mobile, tablette et desktop
-- [ ] Task: Phase Verification & Checkpoint (Refer to workflow.md)
+- [x] Task: Phase Verification & Checkpoint (Refer to workflow.md) (deb1141)
