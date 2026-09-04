@@ -13,11 +13,11 @@
 - [x] Task: Composant "Carnet à Spirales" pour les horaires (`SpiralNotebook.tsx`) (ecdc899)
   - [x] Écrire les tests unitaires pour le calcul de l'état ouvert/fermé en temps réel et l'affichage des plages horaires
   - [x] Implémenter le design visuel inspiré de `frontpage_wip.png` (reliure spirales, papier quadrillé, badge ouvert/fermé)
-- [ ] Task: Refonte complète du composant `Hero.tsx`
-  - [ ] Écrire les tests unitaires pour le rendu du logo central, des ancres de navigation et l'absence du bouton Zenchef
-  - [ ] Centrer et agrandir le logo multicolore "Au Beau Jeu"
-  - [ ] Intégrer les blobs d'arrière-plan animés aux couleurs officielles
-  - [ ] Positionner les 3 boutons d'accès rapide tactiles (La Boutique `#boutique`, Le Bar `#bar`, Le TCG `#tcg`)
+- [x] Task: Refonte complète du composant `Hero.tsx` (2c1b5ba)
+  - [x] Écrire les tests unitaires pour le rendu du logo central, des ancres de navigation et l'absence du bouton Zenchef
+  - [x] Centrer et agrandir le logo multicolore "Au Beau Jeu"
+  - [x] Intégrer les blobs d'arrière-plan animés aux couleurs officielles
+  - [x] Positionner les 3 boutons d'accès rapide tactiles (La Boutique `#boutique`, Le Bar `#bar`, Le TCG `#tcg`)
 - [ ] Task: Phase Verification & Checkpoint (Refer to workflow.md)
 
 ## Phase 3 : Section Dédiée "TCG & Tournois"
