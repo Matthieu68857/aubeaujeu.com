@@ -27,7 +27,7 @@
   - [x] Rédiger le contenu clair et chaleureux présentant le rôle d'ABJ dans la scène TCG lilloise
   - [x] Créer les badges illustrés/stylisés des jeux de cartes
   - [x] Ajouter le bouton d'action CTA vers `https://tcg-arena.aubeaujeu.com/` (ouverture nouvel onglet sécurisé)
-- [ ] Task: Phase Verification & Checkpoint (Refer to workflow.md)
+- [x] Task: Phase Verification & Checkpoint (Refer to workflow.md) (ea5d2ed)
 
 ## Phase 4 : Transitions Organiques, Animations & Mascotte OBO
 - [ ] Task: Insertion des vagues de transition entre l'ensemble des sections
