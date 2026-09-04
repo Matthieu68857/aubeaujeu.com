@@ -1,9 +1,9 @@
 # Plan d'Implémentation : Refonte UI/UX Expressive, Colorée & Animée
 
 ## Phase 1 : Système Graphique, Palette Officielle & Séparateurs Organiques
-- [ ] Task: Étendre la configuration Tailwind et les tokens CSS pour refléter fidèlement la palette officielle (`#88C4B9`, `#D994B6`, `#79B4D9`, `#CF7A86`, `#F9CE8C`, `#F6F6F2`, `#333333`)
-  - [ ] Déclarer les nuances d'arrière-plan, bordures et ombres colorées douces
-  - [ ] Créer les tests unitaires pour la conformité des tokens de style
+- [x] Task: Étendre la configuration Tailwind et les tokens CSS pour refléter fidèlement la palette officielle (`#88C4B9`, `#D994B6`, `#79B4D9`, `#CF7A86`, `#F9CE8C`, `#F6F6F2`, `#333333`) (01e1d85)
+  - [x] Déclarer les nuances d'arrière-plan, bordures et ombres colorées douces
+  - [x] Créer les tests unitaires pour la conformité des tokens de style
 - [ ] Task: Développer les composants de séparateurs de vagues SVG organiques (`WaveDivider.tsx`)
   - [ ] Écrire les tests unitaires pour le rendu SVG dynamique, les hauteurs relatives et les couleurs passées en props
   - [ ] Créer le composant `WaveDivider` avec support des variantes de courbure (inversée, double vague, douce)
