@@ -40,10 +40,10 @@
 - [x] Task: Phase Verification & Checkpoint (Refer to workflow.md) (fb46865)
 
 ## Phase 5 : Vérification Globale, Responsive & Tests de Non-Régression
-- [ ] Task: Exécution de la suite complète de tests Vitest
-  - [ ] Valider l'intégrité de la visionneuse de la carte du bar (zoom, PDF, swipe)
-  - [ ] Valider le bon affichage des galeries photos réelles
-  - [ ] Vérifier la couverture de code (>80%)
-- [ ] Task: Contrôle de la fluidité et du rendu responsive
+- [x] Task: Exécution de la suite complète de tests Vitest (854cb91)
+  - [x] Valider l'intégrité de la visionneuse de la carte du bar (zoom, PDF, swipe)
+  - [x] Valider le bon affichage des galeries photos réelles
+  - [x] Vérifier la couverture de code (>80%)
+- [~] Task: Contrôle de la fluidité et du rendu responsive
   - [ ] Vérification sur mobile, tablette et desktop
 - [ ] Task: Phase Verification & Checkpoint (Refer to workflow.md)
