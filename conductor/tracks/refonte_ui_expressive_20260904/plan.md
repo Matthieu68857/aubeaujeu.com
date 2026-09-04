@@ -4,9 +4,9 @@
 - [x] Task: Étendre la configuration Tailwind et les tokens CSS pour refléter fidèlement la palette officielle (`#88C4B9`, `#D994B6`, `#79B4D9`, `#CF7A86`, `#F9CE8C`, `#F6F6F2`, `#333333`) (01e1d85)
   - [x] Déclarer les nuances d'arrière-plan, bordures et ombres colorées douces
   - [x] Créer les tests unitaires pour la conformité des tokens de style
-- [ ] Task: Développer les composants de séparateurs de vagues SVG organiques (`WaveDivider.tsx`)
-  - [ ] Écrire les tests unitaires pour le rendu SVG dynamique, les hauteurs relatives et les couleurs passées en props
-  - [ ] Créer le composant `WaveDivider` avec support des variantes de courbure (inversée, double vague, douce)
+- [x] Task: Développer les composants de séparateurs de vagues SVG organiques (`WaveDivider.tsx`) (52f1ec2)
+  - [x] Écrire les tests unitaires pour le rendu SVG dynamique, les hauteurs relatives et les couleurs passées en props
+  - [x] Créer le composant `WaveDivider` avec support des variantes de courbure (inversée, double vague, douce)
 - [ ] Task: Phase Verification & Checkpoint (Refer to workflow.md)
 
 ## Phase 2 : Refonte du Hero & Carnets à Spirales Tactiles
