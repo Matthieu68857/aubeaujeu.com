@@ -37,7 +37,7 @@
   - [x] Mettre en scène la mascotte OBO sous forme de stickers flottants et interactifs
   - [x] Styliser les cartes Boutique et Bar avec des bordures et ombres tactiles chaleureuses
   - [x] Vérifier le respect de l'accessibilité `prefers-reduced-motion`
-- [ ] Task: Phase Verification & Checkpoint (Refer to workflow.md)
+- [x] Task: Phase Verification & Checkpoint (Refer to workflow.md) (fb46865)
 
 ## Phase 5 : Vérification Globale, Responsive & Tests de Non-Régression
 - [ ] Task: Exécution de la suite complète de tests Vitest
