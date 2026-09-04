@@ -7,7 +7,7 @@
 - [x] Task: Développer les composants de séparateurs de vagues SVG organiques (`WaveDivider.tsx`) (52f1ec2)
   - [x] Écrire les tests unitaires pour le rendu SVG dynamique, les hauteurs relatives et les couleurs passées en props
   - [x] Créer le composant `WaveDivider` avec support des variantes de courbure (inversée, double vague, douce)
-- [ ] Task: Phase Verification & Checkpoint (Refer to workflow.md)
+- [x] Task: Phase Verification & Checkpoint (Refer to workflow.md) (fdfd59e)
 
 ## Phase 2 : Refonte du Hero & Carnets à Spirales Tactiles
 - [ ] Task: Composant "Carnet à Spirales" pour les horaires (`SpiralNotebook.tsx`)
