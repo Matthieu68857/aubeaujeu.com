@@ -10,9 +10,9 @@
 - [x] Task: Phase Verification & Checkpoint (Refer to workflow.md) (fdfd59e)
 
 ## Phase 2 : Refonte du Hero & Carnets à Spirales Tactiles
-- [ ] Task: Composant "Carnet à Spirales" pour les horaires (`SpiralNotebook.tsx`)
-  - [ ] Écrire les tests unitaires pour le calcul de l'état ouvert/fermé en temps réel et l'affichage des plages horaires
-  - [ ] Implémenter le design visuel inspiré de `frontpage_wip.png` (reliure spirales, papier quadrillé, badge ouvert/fermé)
+- [x] Task: Composant "Carnet à Spirales" pour les horaires (`SpiralNotebook.tsx`) (ecdc899)
+  - [x] Écrire les tests unitaires pour le calcul de l'état ouvert/fermé en temps réel et l'affichage des plages horaires
+  - [x] Implémenter le design visuel inspiré de `frontpage_wip.png` (reliure spirales, papier quadrillé, badge ouvert/fermé)
 - [ ] Task: Refonte complète du composant `Hero.tsx`
   - [ ] Écrire les tests unitaires pour le rendu du logo central, des ancres de navigation et l'absence du bouton Zenchef
   - [ ] Centrer et agrandir le logo multicolore "Au Beau Jeu"
